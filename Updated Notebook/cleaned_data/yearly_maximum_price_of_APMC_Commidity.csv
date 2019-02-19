@@ -1,0 +1,3245 @@
+,APMC,Commodity,2014,2015,2016
+0,Aamgaon,paddy-unhusked,1843,1733,1733
+1,Aarni,gram,2575,4490,4490
+2,Aarni,ground nut pods (dry),3964,5932,5932
+3,Aarni,pigeon pea (tur),4910,10775,10775
+4,Aarni,soybean,3450,3800,3800
+5,Aarni,wheat(husked),1545,1510,1510
+6,Achalpur,black gram,4667,8500,8500
+7,Achalpur,gram,2738,4700,4700
+8,Achalpur,green gram,8050,7038,7038
+9,Achalpur,lentil,4300,6250,6250
+10,Achalpur,maize,1400,1500,1500
+11,Achalpur,mustard,0,3308,3308
+12,Achalpur,pigeon pea (tur),5138,9517,9517
+13,Achalpur,sesamum,12250,8500,8500
+14,Achalpur,sorgum(jawar),1560,1570,1570
+15,Achalpur,soybean,3279,4000,4000
+16,Achalpur,wheat(husked),1706,1800,1800
+17,Aheri,batbati,3500,4500,4500
+18,Aheri,cotton,4000,4030,4030
+19,Aheri,gram,3000,3800,3800
+20,Aheri,green gram,5867,6267,6267
+21,Aheri,maize,1296,1300,1300
+22,Aheri,matki,5000,6000,6000
+23,Aheri,paddy-unhusked,1850,1883,1883
+24,Aheri,pigeon pea (tur),4000,7000,7000
+25,Aheri,rice(paddy-hus),2043,2625,2625
+26,Aheri,sesamum,7429,9250,9250
+27,Aheri,sorgum(jawar),1400,1400,1400
+28,Aheri,soybean,3000,3470,3470
+29,Ahmednagar,bajri,1750,1800,1800
+30,Ahmednagar,bitter gourd,0,3833,3833
+31,Ahmednagar,black gram,4960,10160,10160
+32,Ahmednagar,bottle gourd,0,1380,1380
+33,Ahmednagar,brinjal,0,2909,2909
+34,Ahmednagar,cabbage,0,1473,1473
+35,Ahmednagar,capsicum,0,3375,3375
+36,Ahmednagar,carrot,0,3600,3600
+37,Ahmednagar,castor seed,0,3750,3750
+38,Ahmednagar,chillies(red),0,11813,11813
+39,Ahmednagar,cluster bean,0,6136,6136
+40,Ahmednagar,coriander (dry),0,12000,12000
+41,Ahmednagar,cowpea,0,6200,6200
+42,Ahmednagar,cucumber,0,1618,1618
+43,Ahmednagar,flower,0,3686,3686
+44,Ahmednagar,garlic,0,12200,12200
+45,Ahmednagar,ghevda,0,5375,5375
+46,Ahmednagar,ghosali(bhaji),0,3625,3625
+47,Ahmednagar,ginger (fresh),0,3500,3500
+48,Ahmednagar,gram,2732,5263,5263
+49,Ahmednagar,green chilli,0,4417,4417
+50,Ahmednagar,green gram,8020,8836,8836
+51,Ahmednagar,green peas (dry),0,6000,6000
+52,Ahmednagar,ground nut pods (dry),0,4350,4350
+53,Ahmednagar,horse gram,3261,8850,8850
+54,Ahmednagar,jaggery,0,3100,3100
+55,Ahmednagar,ladies finger,0,3570,3570
+56,Ahmednagar,lemon,0,3244,3244
+57,Ahmednagar,maize(corn.),0,1125,1125
+58,Ahmednagar,maize,1484,2019,2019
+59,Ahmednagar,matki,7400,9000,9000
+60,Ahmednagar,mustard,0,3900,3900
+61,Ahmednagar,onion,2350,3390,3390
+62,Ahmednagar,pigeon pea (tur),4440,10175,10175
+63,Ahmednagar,potato,0,2227,2227
+64,Ahmednagar,sorgum(jawar),2713,2718,2718
+65,Ahmednagar,soybean,3217,3741,3741
+66,Ahmednagar,spinach,0,7,7
+67,Ahmednagar,squash gourd,0,0,0
+68,Ahmednagar,tamarind seed,0,1664,1664
+69,Ahmednagar,tamarind,0,9309,9309
+70,Ahmednagar,tomato,0,3190,3190
+71,Ahmednagar,wheat(husked),1785,2075,2075
+72,Ahmedpur,bajri,0,1346,1346
+73,Ahmedpur,black gram,5376,10041,10041
+74,Ahmedpur,gram,2358,5529,5529
+75,Ahmedpur,green gram,7535,8894,8894
+76,Ahmedpur,ground nut pods (dry),0,6083,6083
+77,Ahmedpur,hemp-seed,1326,1918,1918
+78,Ahmedpur,maize,1348,1467,1467
+79,Ahmedpur,neem-seed,0,778,778
+80,Ahmedpur,niger-seed,0,7687,7687
+81,Ahmedpur,paddy-unhusked,851,1410,1410
+82,Ahmedpur,pigeon pea (tur),4673,10678,10678
+83,Ahmedpur,rice(paddy-hus),1551,1631,1631
+84,Ahmedpur,safflower,2351,2520,2520
+85,Ahmedpur,sesamum,10133,7310,7310
+86,Ahmedpur,sorgum(jawar),1808,1920,1920
+87,Ahmedpur,soybean,3348,3789,3789
+88,Ahmedpur,sunflower,4461,3770,3770
+89,Ahmedpur,tamarind seed,0,1522,1522
+90,Ahmedpur,wheat(husked),1441,1570,1570
+91,Akhadabalapur,castor seed,0,3320,3320
+92,Akhadabalapur,cotton,4159,4220,4220
+93,Akhadabalapur,gram,3280,4250,4250
+94,Akhadabalapur,pigeon pea (tur),4217,7825,7825
+95,Akhadabalapur,sorgum(jawar),1600,1650,1650
+96,Akhadabalapur,soybean,3755,3500,3500
+97,Akhadabalapur,turmeric,5300,7500,7500
+98,Akhadabalapur,wheat(husked),1825,1838,1838
+99,Akkalkuwa,maize,0,1405,1405
+100,Akkalkuwa,sorgum(jawar),0,1410,1410
+101,Akkalkuwa,wheat(husked),0,1500,1500
+102,Akkolkot,bajri,1429,1611,1611
+103,Akkolkot,black gram,6598,11550,11550
+104,Akkolkot,gram,3176,5111,5111
+105,Akkolkot,green gram,7433,9201,9201
+106,Akkolkot,maize,1201,1600,1600
+107,Akkolkot,pigeon pea (tur),5363,13200,13200
+108,Akkolkot,wheat(husked),1481,2001,2001
+109,Akkolkot,wheat(unhusked),3876,4045,4045
+110,Akluj,bajri,1638,1458,1458
+111,Akluj,banana,1200,845,845
+112,Akluj,bitter gourd,3800,3472,3472
+113,Akluj,bor,1921,2188,2188
+114,Akluj,brinjal,3189,2084,2084
+115,Akluj,cabbage,886,942,942
+116,Akluj,carrot,2008,3500,3500
+117,Akluj,chikoo,2907,3533,3533
+118,Akluj,chillies(red),3569,3900,3900
+119,Akluj,coriander  ,12,6,6
+120,Akluj,garlic,6000,11816,11816
+121,Akluj,gram,2427,4067,4067
+122,Akluj,ground nut pods (dry),3617,4675,4675
+123,Akluj,ladies finger,3483,3753,3753
+124,Akluj,lemon,0,2,2
+125,Akluj,maize,1445,1551,1551
+126,Akluj,onion,1936,3421,3421
+127,Akluj,potato,2679,1636,1636
+128,Akluj,shevga,4900,5833,5833
+129,Akluj,sorgum(jawar),2126,2005,2005
+130,Akluj,tomato,2157,3036,3036
+131,Akluj,water melon,1280,940,940
+132,Akluj,wheat(husked),1613,1869,1869
+133,Akola,bajri,0,1825,1825
+134,Akola,batbati,0,0,0
+135,Akola,black gram,5583,11434,11434
+136,Akola,gram,3010,5280,5280
+137,Akola,green gram,8173,8908,8908
+138,Akola,maize,0,1500,1500
+139,Akola,pigeon pea (tur),5330,10971,10971
+140,Akola,safflower,0,2442,2442
+141,Akola,sesamum,0,7000,7000
+142,Akola,sorgum(jawar),1672,1596,1596
+143,Akola,soybean,3271,3794,3794
+144,Akola,sunflower,0,5200,5200
+145,Akola,wheat(husked),1682,1880,1880
+146,Akole,bajri,1750,1850,1850
+147,Akole,bhagar-vari,3000,3000,3000
+148,Akole,gram,3300,4400,4400
+149,Akole,maize,1400,1600,1600
+150,Akole,onion,2222,2802,2802
+151,Akole,paddy-unhusked,1900,2067,2067
+152,Akole,soybean,3200,3775,3775
+153,Akole,tomato,867,1624,1624
+154,Akole,wheat(husked),1900,2025,2025
+155,Akot,black gram,0,11136,11136
+156,Akot,cotton,0,4560,4560
+157,Akot,gram,0,5004,5004
+158,Akot,green gram,0,8726,8726
+159,Akot,ground nut pods (dry),0,5580,5580
+160,Akot,maize,0,1378,1378
+161,Akot,pigeon pea (tur),0,9400,9400
+162,Akot,sesamum,0,6746,6746
+163,Akot,sorgum(jawar),0,1563,1563
+164,Akot,soybean,0,3616,3616
+165,Akot,sunflower,0,3385,3385
+166,Akot,thymol-lovage,0,11511,11511
+167,Akot,wheat(husked),0,1550,1550
+168,Alibag,paddy-unhusked,0,1792,1792
+169,Alibag,rice(paddy-hus),1700,4000,4000
+170,Amalner,bajri,1390,1516,1516
+171,Amalner,black gram,4830,9700,9700
+172,Amalner,coriander (dry),8000,9375,9375
+173,Amalner,cowpea,0,4500,4500
+174,Amalner,gram,2525,4251,4251
+175,Amalner,green gram,8500,8261,8261
+176,Amalner,ground nut pods (dry),0,0,0
+177,Amalner,maize,1210,1500,1500
+178,Amalner,pigeon pea (tur),3500,7736,7736
+179,Amalner,sesamum,0,0,0
+180,Amalner,sorgum(jawar),1690,1580,1580
+181,Amalner,soybean,3300,3529,3529
+182,Amalner,wheat(husked),1841,1810,1810
+183,Amarawati-Fruit And Vegetables,apple,0,0,0
+184,Amarawati-Fruit And Vegetables,beet root,0,0,0
+185,Amarawati-Fruit And Vegetables,bitter gourd,0,0,0
+186,Amarawati-Fruit And Vegetables,brinjal,0,0,0
+187,Amarawati-Fruit And Vegetables,cabbage,0,0,0
+188,Amarawati-Fruit And Vegetables,carrot,0,0,0
+189,Amarawati-Fruit And Vegetables,chikoo,0,0,0
+190,Amarawati-Fruit And Vegetables,coriander  ,0,0,0
+191,Amarawati-Fruit And Vegetables,cucumber,0,0,0
+192,Amarawati-Fruit And Vegetables,dhemse,0,0,0
+193,Amarawati-Fruit And Vegetables,flower,0,0,0
+194,Amarawati-Fruit And Vegetables,garlic,0,0,0
+195,Amarawati-Fruit And Vegetables,ginger (fresh),0,0,0
+196,Amarawati-Fruit And Vegetables,green chilli,0,0,0
+197,Amarawati-Fruit And Vegetables,lemon,0,0,0
+198,Amarawati-Fruit And Vegetables,melon,0,0,0
+199,Amarawati-Fruit And Vegetables,methi (bhaji),0,0,0
+200,Amarawati-Fruit And Vegetables,mosambi,0,0,0
+201,Amarawati-Fruit And Vegetables,onion,0,0,0
+202,Amarawati-Fruit And Vegetables,orange,0,0,0
+203,Amarawati-Fruit And Vegetables,papai,0,0,0
+204,Amarawati-Fruit And Vegetables,pomegranate,0,0,0
+205,Amarawati-Fruit And Vegetables,potato,0,0,0
+206,Amarawati-Fruit And Vegetables,pumpkin,0,0,0
+207,Amarawati-Fruit And Vegetables,spinach,0,0,0
+208,Amarawati-Fruit And Vegetables,tomato,0,0,0
+209,Amarawati,apple,0,6400,6400
+210,Amarawati,bajri,0,2096,2096
+211,Amarawati,beet root,0,2500,2500
+212,Amarawati,bitter gourd,0,3050,3050
+213,Amarawati,black gram,5372,10891,10891
+214,Amarawati,brinjal,1117,1563,1563
+215,Amarawati,cabbage,2631,2267,2267
+216,Amarawati,capsicum,0,0,0
+217,Amarawati,carrot,0,4314,4314
+218,Amarawati,chikoo,0,2500,2500
+219,Amarawati,chillies(red),0,10500,10500
+220,Amarawati,cluster bean,0,3325,3325
+221,Amarawati,coriander  ,0,3625,3625
+222,Amarawati,cotton,0,4445,4445
+223,Amarawati,cucumber,0,1675,1675
+224,Amarawati,dhemse,0,2625,2625
+225,Amarawati,flower,0,2388,2388
+226,Amarawati,garlic,3692,13667,13667
+227,Amarawati,ginger (fresh),3625,4500,4500
+228,Amarawati,gram,2888,5006,5006
+229,Amarawati,green chilli,0,3500,3500
+230,Amarawati,green gram,8200,8584,8584
+231,Amarawati,ground nut pods (dry),3661,5597,5597
+232,Amarawati,guava,0,1500,1500
+233,Amarawati,kharbuj,0,0,0
+234,Amarawati,ladies finger,0,3250,3250
+235,Amarawati,lemon,0,2300,2300
+236,Amarawati,linseed,0,5579,5579
+237,Amarawati,maize(corn.),0,650,650
+238,Amarawati,maize,1320,1381,1381
+239,Amarawati,math (bhaji),1545,2763,2763
+240,Amarawati,melon,0,0,0
+241,Amarawati,mosambi,2231,2877,2877
+242,Amarawati,onion,1779,4258,4258
+243,Amarawati,orange,1300,1939,1939
+244,Amarawati,papai,1971,1500,1500
+245,Amarawati,pigeon pea (tur),5225,11791,11791
+246,Amarawati,pomegranate,0,6250,6250
+247,Amarawati,potato,1642,1230,1230
+248,Amarawati,pumpkin,0,1550,1550
+249,Amarawati,sesamum,0,10531,10531
+250,Amarawati,sorgum(jawar),1850,1886,1886
+251,Amarawati,soybean,3243,3744,3744
+252,Amarawati,spinach,0,2144,2144
+253,Amarawati,sunflower,0,6650,6650
+254,Amarawati,tomato,1436,1726,1726
+255,Amarawati,wheat(husked),1925,1935,1935
+256,Ambad(Vadi Godri),bajri,1619,1702,1702
+257,Ambad(Vadi Godri),gram,0,4237,4237
+258,Ambad(Vadi Godri),maize,1174,1611,1611
+259,Ambad(Vadi Godri),pigeon pea (tur),5350,8767,8767
+260,Ambad(Vadi Godri),sorgum(jawar),2431,2025,2025
+261,Ambad(Vadi Godri),soybean,3270,3510,3510
+262,Ambad(Vadi Godri),wheat(husked),1741,2964,2964
+263,Ambejogai,bajri,1616,1645,1645
+264,Ambejogai,black gram,5392,11645,11645
+265,Ambejogai,gram,2785,6464,6464
+266,Ambejogai,green gram,7935,8800,8800
+267,Ambejogai,pigeon pea (tur),5328,10145,10145
+268,Ambejogai,safflower,2400,2498,2498
+269,Ambejogai,sesamum,10440,9242,9242
+270,Ambejogai,sorgum(jawar),2344,2772,2772
+271,Ambejogai,soybean,3392,3908,3908
+272,Ambejogai,sunflower,3098,3210,3210
+273,Ambejogai,wheat(husked),1855,2457,2457
+274,Anajngaon Surji,banana,1175,900,900
+275,Anajngaon Surji,black gram,5192,10158,10158
+276,Anajngaon Surji,chillies(red),9750,40500,40500
+277,Anajngaon Surji,gram,2898,4941,4941
+278,Anajngaon Surji,green gram,7869,9000,9000
+279,Anajngaon Surji,pigeon pea (tur),5167,10740,10740
+280,Anajngaon Surji,sorgum(jawar),1531,1586,1586
+281,Anajngaon Surji,soybean,3257,3825,3825
+282,Anajngaon Surji,sunflower,2961,3100,3100
+283,Anajngaon Surji,wheat(husked),1618,1800,1800
+284,Arjuni Morgaon,paddy-unhusked,2005,2125,2125
+285,Armori-Desaiganj,chillies(red),12700,15600,15600
+286,Armori-Desaiganj,paddy-unhusked,1953,1796,1796
+287,Armori,ground nut pods (dry),0,4504,4504
+288,Armori,paddy-unhusked,2109,1844,1844
+289,Arvi,cotton,4113,4626,4626
+290,Arvi,gram,0,4340,4340
+291,Arvi,pigeon pea (tur),0,8214,8214
+292,Arvi,soybean,3445,3968,3968
+293,Ashti (Jalna),bajri,0,1530,1530
+294,Ashti (Jalna),sorgum(jawar),0,1755,1755
+295,Ashti (Wardha),cotton,0,4643,4643
+296,Ashti-Karanja,gram,0,4800,4800
+297,Ashti-Karanja,pigeon pea (tur),0,8128,8128
+298,Ashti-Karanja,soybean,0,3706,3706
+299,Ashti-Karanja,wheat(husked),0,1622,1622
+300,Atpadi,bajri,1900,0,0
+301,Atpadi,maize,0,1600,1600
+302,Atpadi,pomegranate,7250,7155,7155
+303,Atpadi,sorgum(jawar),2100,2100,2100
+304,Aurad Shahajani,gram,0,4614,4614
+305,Aurad Shahajani,pigeon pea (tur),0,9591,9591
+306,Aurad Shahajani,soybean,0,3587,3587
+307,Aurangabad,apple,8800,8500,8500
+308,Aurangabad,awala,1163,1800,1800
+309,Aurangabad,banana,745,650,650
+310,Aurangabad,bitter gourd,3280,3900,3900
+311,Aurangabad,bor,2476,2195,2195
+312,Aurangabad,bottle gourd,904,895,895
+313,Aurangabad,brinjal,2136,2128,2128
+314,Aurangabad,cabbage,924,1025,1025
+315,Aurangabad,capsicum,3120,3070,3070
+316,Aurangabad,carrot,1900,2500,2500
+317,Aurangabad,chavli (shenga ),3000,3250,3250
+318,Aurangabad,chikoo,2225,2417,2417
+319,Aurangabad,cluster bean,3545,4800,4800
+320,Aurangabad,coriander  ,500,900,900
+321,Aurangabad,cucumber,3030,1987,1987
+322,Aurangabad,custard apple,6267,3450,3450
+323,Aurangabad,fig,8200,9000,9000
+324,Aurangabad,flower,2332,3315,3315
+325,Aurangabad,garlic,4325,9930,9930
+326,Aurangabad,ginger (fresh),4533,4844,4844
+327,Aurangabad,grapes,3750,4664,4664
+328,Aurangabad,green chilli,4058,4480,4480
+329,Aurangabad,green-peas,3600,2884,2884
+330,Aurangabad,ground nut pods (dry),0,9358,9358
+331,Aurangabad,guava,1960,2033,2033
+332,Aurangabad,kharbuj,2167,2500,2500
+333,Aurangabad,ladies finger,2071,3500,3500
+334,Aurangabad,lemon,4626,4655,4655
+335,Aurangabad,maize(corn.),1000,1722,1722
+336,Aurangabad,mango(raw),0,3771,3771
+337,Aurangabad,mango,0,9000,9000
+338,Aurangabad,math (bhaji),700,800,800
+339,Aurangabad,melon,500,1000,1000
+340,Aurangabad,mosambi,2542,8568,8568
+341,Aurangabad,onion,1563,2700,2700
+342,Aurangabad,orange,1977,2720,2720
+343,Aurangabad,papai,1427,2000,2000
+344,Aurangabad,pomegranate,5343,6027,6027
+345,Aurangabad,potato,2552,1168,1168
+346,Aurangabad,shevga,6250,5769,5769
+347,Aurangabad,spinach,300,270,270
+348,Aurangabad,sweet potato,2250,2500,2500
+349,Aurangabad,tamarind,0,4750,4750
+350,Aurangabad,tomato,1768,2813,2813
+351,Aurangabad,wal bhaji,2450,3033,3033
+352,Ausa,bajri,1769,1768,1768
+353,Ausa,black gram,6006,8610,8610
+354,Ausa,coriander (dry),9301,12001,12001
+355,Ausa,gram,2872,4882,4882
+356,Ausa,green gram,8203,8200,8200
+357,Ausa,ground nut pods (dry),4051,5001,5001
+358,Ausa,jaggery,2601,2176,2176
+359,Ausa,maize,1391,1651,1651
+360,Ausa,paddy-unhusked,1426,1000,1000
+361,Ausa,pigeon pea (tur),5333,10290,10290
+362,Ausa,safflower,2514,2853,2853
+363,Ausa,sesamum,9453,9226,9226
+364,Ausa,sorgum(jawar),1866,2845,2845
+365,Ausa,soybean,3407,3917,3917
+366,Ausa,sunflower,3170,3662,3662
+367,Ausa,tamarind,0,4837,4837
+368,Ausa,wheat(husked),0,3141,3141
+369,Babhulgaon,gram,2530,4350,4350
+370,Babhulgaon,pigeon pea (tur),4992,9951,9951
+371,Babhulgaon,soybean,3360,3811,3811
+372,Balapur,black gram,0,10800,10800
+373,Balapur,gram,0,4600,4600
+374,Balapur,green gram,0,9275,9275
+375,Balapur,pigeon pea (tur),0,10333,10333
+376,Balapur,sorgum(jawar),0,1675,1675
+377,Balapur,soybean,0,3781,3781
+378,Balapur,wheat(husked),0,1850,1850
+379,Baramati,bajri,1854,2063,2063
+380,Baramati,gram,2801,5163,5163
+381,Baramati,ground nut pods (dry),3730,6043,6043
+382,Baramati,jaggery,3335,2754,2754
+383,Baramati,maize,1485,1791,1791
+384,Baramati,onion,2100,5305,5305
+385,Baramati,pigeon pea (tur),0,7860,7860
+386,Baramati,sorgum(jawar),2392,2532,2532
+387,Baramati,soybean,3316,3774,3774
+388,Baramati,sunflower,3486,3701,3701
+389,Baramati,wheat(husked),2006,2375,2375
+390,Baramati,wheat(unhusked),0,0,0
+391,Barshi Takli,cotton,0,4300,4300
+392,Barshi-Vairag,black gram,5192,11900,11900
+393,Barshi-Vairag,gram,2650,4576,4576
+394,Barshi-Vairag,green gram,6365,8800,8800
+395,Barshi-Vairag,ground nut pods (dry),3919,5030,5030
+396,Barshi-Vairag,maize,1414,1596,1596
+397,Barshi-Vairag,pigeon pea (tur),4930,9262,9262
+398,Barshi-Vairag,safflower,2331,0,0
+399,Barshi-Vairag,sorgum(jawar),2676,2518,2518
+400,Barshi-Vairag,soybean,3344,3848,3848
+401,Barshi-Vairag,sunflower,2980,3175,3175
+402,Barshi-Vairag,wheat(husked),2102,2462,2462
+403,Barshi,bajri,1750,1729,1729
+404,Barshi,bitter gourd,373,500,500
+405,Barshi,black gram,6276,11505,11505
+406,Barshi,bor,192,185,185
+407,Barshi,brinjal,383,269,269
+408,Barshi,cabbage,76,113,113
+409,Barshi,capsicum,231,1392,1392
+410,Barshi,castor seed,3400,3625,3625
+411,Barshi,chikoo,253,300,300
+412,Barshi,cluster bean,450,500,500
+413,Barshi,coriander  ,800,2000,2000
+414,Barshi,coriander (dry),10451,10100,10100
+415,Barshi,cucumber,146,131,131
+416,Barshi,flower,102,196,196
+417,Barshi,fodder,677,842,842
+418,Barshi,ghevda,350,185,185
+419,Barshi,gram,3169,4814,4814
+420,Barshi,grapes,0,300,300
+421,Barshi,green chilli,297,396,396
+422,Barshi,green gram,7573,8241,8241
+423,Barshi,ground nut pods (dry),3881,5490,5490
+424,Barshi,jaggery,2341,2350,2350
+425,Barshi,kanda pat,433,867,867
+426,Barshi,kharbuj,120,218,218
+427,Barshi,ladies finger,296,352,352
+428,Barshi,lemon,342,578,578
+429,Barshi,maize,1370,1607,1607
+430,Barshi,mango,0,700,700
+431,Barshi,matki,6500,6000,6000
+432,Barshi,methi (bhaji),700,1500,1500
+433,Barshi,mosambi,800,600,600
+434,Barshi,onion,1776,3046,3046
+435,Barshi,other cereals,3300,2800,2800
+436,Barshi,other pulses,2957,3600,3600
+437,Barshi,paddy-unhusked,1663,1614,1614
+438,Barshi,pigeon pea (tur),5237,9768,9768
+439,Barshi,pomegranate,783,600,600
+440,Barshi,ridge gourd,258,350,350
+441,Barshi,safflower,0,2775,2775
+442,Barshi,sesamum,10500,11000,11000
+443,Barshi,shepu,500,900,900
+444,Barshi,shevga,800,500,500
+445,Barshi,sorgum(jawar),2875,2685,2685
+446,Barshi,soybean,3350,3300,3300
+447,Barshi,spinach,450,600,600
+448,Barshi,squash gourd,0,229,229
+449,Barshi,sunflower,3167,3611,3611
+450,Barshi,tamarind seed,0,1787,1787
+451,Barshi,tamarind,7139,6522,6522
+452,Barshi,tomato,143,158,158
+453,Barshi,turmeric,5867,9926,9926
+454,Barshi,water melon,150,200,200
+455,Barshi,wheat(husked),1756,2443,2443
+456,Barshi,wheat(unhusked),2663,3000,3000
+457,Basmat,cotton,4050,4338,4338
+458,Basmat,gram,7980,5000,5000
+459,Basmat,green gram,6610,8271,8271
+460,Basmat,ground nut pods (dry),4434,5628,5628
+461,Basmat,pigeon pea (tur),0,7978,7978
+462,Basmat,soybean,3345,3915,3915
+463,Basmat,turmeric,9158,10917,10917
+464,Basmat,wheat(husked),1500,1720,1720
+465,Beed,bajri,1693,1813,1813
+466,Beed,black gram,5249,10951,10951
+467,Beed,gram,2324,4930,4930
+468,Beed,green gram,7743,8750,8750
+469,Beed,maize,1500,1458,1458
+470,Beed,pigeon pea (tur),4997,9075,9075
+471,Beed,sesamum,11748,10668,10668
+472,Beed,sorgum(jawar),2670,2653,2653
+473,Beed,soybean,3337,3899,3899
+474,Beed,wheat(husked),1858,2464,2464
+475,Bhandara,coriander (dry),0,0,0
+476,Bhandara,gram,2738,5494,5494
+477,Bhandara,green gram,5670,4567,4567
+478,Bhandara,indian bean,0,2000,2000
+479,Bhandara,linseed,0,4000,4000
+480,Bhandara,other cereals,0,3850,3850
+481,Bhandara,pigeon pea (tur),0,8600,8600
+482,Bhandara,rice(paddy-hus),3697,2852,2852
+483,Bhandara,soybean,3650,3288,3288
+484,Bhandara,wheat(husked),1587,1742,1742
+485,Bhivandi,male goat,3500,3500,3500
+486,Bhivandi,onion,2519,2800,2800
+487,Bhivandi,other vegetables,2075,1935,1935
+488,Bhivandi,potato,2030,2014,2014
+489,Bhivandi,rice(paddy-hus),2496,2923,2923
+490,Bhivandi,wheat(husked),2145,2324,2324
+491,Bhiwapur,chillies(red),8000,9750,9750
+492,Bhiwapur,cotton,4111,4287,4287
+493,Bhiwapur,gram,0,4190,4190
+494,Bhiwapur,green chilli,1735,2206,2206
+495,Bhiwapur,green gram,0,6400,6400
+496,Bhiwapur,paddy-unhusked,2868,2332,2332
+497,Bhiwapur,pigeon pea (tur),0,7000,7000
+498,Bhiwapur,soybean,3332,4017,4017
+499,Bhiwapur,wheat(husked),1460,1400,1400
+500,Bhokardan-Pimpalgaon Renu,bajri,0,1378,1378
+501,Bhokardan-Pimpalgaon Renu,gram,3100,3763,3763
+502,Bhokardan-Pimpalgaon Renu,green gram,0,8000,8000
+503,Bhokardan-Pimpalgaon Renu,maize,1337,1408,1408
+504,Bhokardan-Pimpalgaon Renu,sorgum(jawar),1269,1350,1350
+505,Bhokardan-Pimpalgaon Renu,soybean,3263,3650,3650
+506,Bhokardan-Pimpalgaon Renu,wheat(husked),1560,1651,1651
+507,Bhokardan,bajri,0,1357,1357
+508,Bhokardan,cotton,4050,4290,4290
+509,Bhokardan,gram,0,3850,3850
+510,Bhokardan,green gram,0,8000,8000
+511,Bhokardan,maize,1333,1380,1380
+512,Bhokardan,pigeon pea (tur),0,5000,5000
+513,Bhokardan,sorgum(jawar),1241,2574,2574
+514,Bhokardan,soybean,3238,3675,3675
+515,Bhokardan,wheat(husked),1560,1651,1651
+516,Bhokar,black gram,5075,10258,10258
+517,Bhokar,cotton,3989,4537,4537
+518,Bhokar,gram,3627,4429,4429
+519,Bhokar,green gram,6504,8260,8260
+520,Bhokar,ground nut pods (dry),3600,5100,5100
+521,Bhokar,maize,0,1450,1450
+522,Bhokar,pigeon pea (tur),4711,8755,8755
+523,Bhokar,rice(paddy-hus),0,1725,1725
+524,Bhokar,sesamum,9328,8521,8521
+525,Bhokar,sorgum(jawar),1580,1600,1600
+526,Bhokar,soybean,3586,3820,3820
+527,Bhokar,sunflower,0,3250,3250
+528,Bhokar,turmeric,5565,8935,8935
+529,Bhokar,wheat(husked),1517,1751,1751
+530,Bhusaval,bajri,1317,1300,1300
+531,Bhusaval,black gram,4950,10250,10250
+532,Bhusaval,gram,2954,4000,4000
+533,Bhusaval,green gram,5090,7600,7600
+534,Bhusaval,maize,1100,1250,1250
+535,Bhusaval,pigeon pea (tur),0,4300,4300
+536,Bhusaval,sorgum(jawar),1385,1421,1421
+537,Bhusaval,wheat(husked),1381,1472,1472
+538,Bori Arab,soybean,3235,3553,3553
+539,Brahmpuri,paddy-unhusked,2315,6059,6059
+540,Buldhana-Dhad,maize,0,1500,1500
+541,Buldhana-Dhad,soybean,0,3619,3619
+542,Buldhana,black gram,0,8575,8575
+543,Buldhana,gram,2571,4775,4775
+544,Buldhana,green gram,7000,8200,8200
+545,Buldhana,maize,0,1500,1500
+546,Buldhana,pigeon pea (tur),0,9000,9000
+547,Buldhana,sorgum(jawar),1800,1850,1850
+548,Buldhana,soybean,3328,3725,3725
+549,Buldhana,wheat(husked),2000,1985,1985
+550,Chakur,gram,0,4049,4049
+551,Chakur,pigeon pea (tur),0,8767,8767
+552,Chakur,sorgum(jawar),0,0,0
+553,Chakur,soybean,0,3751,3751
+554,Chalisgaon,bajri,1379,1581,1581
+555,Chalisgaon,black gram,4892,8685,8685
+556,Chalisgaon,castor seed,3300,0,0
+557,Chalisgaon,gram,2667,4945,4945
+558,Chalisgaon,green gram,6967,7775,7775
+559,Chalisgaon,ground nut pods (dry),4225,5235,5235
+560,Chalisgaon,maize,1295,1506,1506
+561,Chalisgaon,matki,0,8000,8000
+562,Chalisgaon,onion,0,0,0
+563,Chalisgaon,pigeon pea (tur),4200,7517,7517
+564,Chalisgaon,sorgum(jawar),1492,2222,2222
+565,Chalisgaon,soybean,3217,3406,3406
+566,Chalisgaon,sunflower,2983,3108,3108
+567,Chalisgaon,wheat(husked),1708,1863,1863
+568,Chamorshi,paddy-unhusked,1929,2664,2664
+569,Chandrapur-Ganjwad,bitter gourd,2000,2100,2100
+570,Chandrapur-Ganjwad,brinjal,1377,1111,1111
+571,Chandrapur-Ganjwad,cabbage,1091,900,900
+572,Chandrapur-Ganjwad,capsicum,2640,2600,2600
+573,Chandrapur-Ganjwad,carrot,1936,1257,1257
+574,Chandrapur-Ganjwad,chavli (pala),1778,1300,1300
+575,Chandrapur-Ganjwad,chavli (shenga ),2000,1600,1600
+576,Chandrapur-Ganjwad,coriander  ,3892,4300,4300
+577,Chandrapur-Ganjwad,cucumber,0,0,0
+578,Chandrapur-Ganjwad,dhemse,0,1800,1800
+579,Chandrapur-Ganjwad,flower,1215,1509,1509
+580,Chandrapur-Ganjwad,garlic,7400,17556,17556
+581,Chandrapur-Ganjwad,green chilli,0,0,0
+582,Chandrapur-Ganjwad,ladies finger,1900,2400,2400
+583,Chandrapur-Ganjwad,math (bhaji),2960,1700,1700
+584,Chandrapur-Ganjwad,onion,2200,2665,2665
+585,Chandrapur-Ganjwad,potato,2700,1860,1860
+586,Chandrapur-Ganjwad,pumpkin,1180,1133,1133
+587,Chandrapur-Ganjwad,raddish,1423,1500,1500
+588,Chandrapur-Ganjwad,small gourd,1343,900,900
+589,Chandrapur-Ganjwad,spinach,1469,2000,2000
+590,Chandrapur-Ganjwad,tomato,1367,2177,2177
+591,Chandrapur-Ganjwad,wal bhaji,3419,1917,1917
+592,Chandrapur,apple,8726,8500,8500
+593,Chandrapur,awala,1820,2000,2000
+594,Chandrapur,banana,2025,1742,1742
+595,Chandrapur,chikoo,2970,3100,3100
+596,Chandrapur,gram,2638,4285,4285
+597,Chandrapur,grapes,0,6278,6278
+598,Chandrapur,green gram,5800,6458,6458
+599,Chandrapur,kharbuj,0,2000,2000
+600,Chandrapur,mango,0,3800,3800
+601,Chandrapur,mosambi,2982,3250,3250
+602,Chandrapur,papai,2013,2050,2050
+603,Chandrapur,pigeon pea (tur),4539,7825,7825
+604,Chandrapur,pineapple,50,46,46
+605,Chandrapur,pomegranate,6115,7786,7786
+606,Chandrapur,soybean,3299,3852,3852
+607,Chandrapur,water melon,0,680,680
+608,Chandur Bajar,black gram,5075,11625,11625
+609,Chandur Bajar,gram,2843,5202,5202
+610,Chandur Bajar,pigeon pea (tur),5108,10100,10100
+611,Chandur Bajar,sorgum(jawar),1550,1623,1623
+612,Chandur Bajar,soybean,3411,3909,3909
+613,Chandur Bajar,wheat(husked),1800,1688,1688
+614,Chandur Rly.,cotton,4053,4329,4329
+615,Chandur Rly.,gram,0,4178,4178
+616,Chandur Rly.,green gram,6500,9206,9206
+617,Chandur Rly.,pigeon pea (tur),4792,11942,11942
+618,Chandur Rly.,soybean,3299,3784,3784
+619,Chandur Rly.,wheat(husked),1500,1565,1565
+620,Chandvad,cucumber,0,1430,1430
+621,Chandvad,ladies finger,0,3783,3783
+622,Chandvad,onion,1673,2417,2417
+623,Chandvad,tomato,0,1953,1953
+624,Chikhali,black gram,5701,10887,10887
+625,Chikhali,gram,3076,4594,4594
+626,Chikhali,green gram,8350,7600,7600
+627,Chikhali,maize,1198,1335,1335
+628,Chikhali,pigeon pea (tur),5101,9385,9385
+629,Chikhali,sorgum(jawar),1455,1470,1470
+630,Chikhali,soybean,3321,3834,3834
+631,Chikhali,wheat(husked),1645,1667,1667
+632,Chimur,cotton,4181,4297,4297
+633,Chimur,gram,2695,3580,3580
+634,Chimur,paddy-unhusked,2201,2100,2100
+635,Chimur,pigeon pea (tur),0,8667,8667
+636,Chimur,soybean,3240,3511,3511
+637,Chopda,bajri,1353,1520,1520
+638,Chopda,black gram,5005,10404,10404
+639,Chopda,gram,2722,4751,4751
+640,Chopda,green gram,7548,8528,8528
+641,Chopda,ground nut pods (dry),3600,5325,5325
+642,Chopda,maize,1148,1434,1434
+643,Chopda,pigeon pea (tur),0,7201,7201
+644,Chopda,sesamum,10400,8692,8692
+645,Chopda,sorgum(jawar),1629,1804,1804
+646,Chopda,soybean,3344,3673,3673
+647,Chopda,sunflower,2863,3104,3104
+648,Chopda,wheat(husked),1601,1613,1613
+649,Darwha,cotton,4050,4219,4219
+650,Darwha,soybean,3257,3760,3760
+651,Daryapur,black gram,5513,11600,11600
+652,Daryapur,gram,3014,5583,5583
+653,Daryapur,green gram,8313,10830,10830
+654,Daryapur,pigeon pea (tur),5455,10561,10561
+655,Daryapur,sorgum(jawar),1377,2045,2045
+656,Daryapur,soybean,3266,3786,3786
+657,Deglur,black gram,5789,12305,12305
+658,Deglur,green gram,7557,8644,8644
+659,Deulgaon Raja,cotton,4070,4582,4582
+660,Devala,bajri,1555,1573,1573
+661,Devala,black gram,5262,10450,10450
+662,Devala,cowpea,2667,4755,4755
+663,Devala,gram,3677,5496,5496
+664,Devala,green gram,7969,8853,8853
+665,Devala,green peas (dry),0,2705,2705
+666,Devala,horse gram,3035,3767,3767
+667,Devala,maize,1290,1512,1512
+668,Devala,matki,6345,8800,8800
+669,Devala,onion,1764,2379,2379
+670,Devala,pigeon pea (tur),4105,9152,9152
+671,Devala,rice(paddy-hus),1511,1630,1630
+672,Devala,sorgum(jawar),2761,2499,2499
+673,Devala,soup berries,0,1000,1000
+674,Devala,tag,3200,3105,3105
+675,Devala,tamarind,0,1841,1841
+676,Devala,wheat(husked),1635,1658,1658
+677,Devani,gram,0,4531,4531
+678,Devani,pigeon pea (tur),0,8916,8916
+679,Devani,soybean,0,3766,3766
+680,Dhadgaon,bhagar-vari,0,0,0
+681,Dhadgaon,maize,0,1230,1230
+682,Dhadgaon,sorgum(jawar),0,1200,1200
+683,Dhamangaon-Rly,cotton,4060,4430,4430
+684,Dhamangaon-Rly,gram,2738,4800,4800
+685,Dhamangaon-Rly,pigeon pea (tur),5006,8576,8576
+686,Dhamangaon-Rly,soybean,3512,3781,3781
+687,Dhamangaon-Rly,wheat(husked),1534,1641,1641
+688,Dharangaon,bajri,0,0,0
+689,Dharangaon,maize,0,0,0
+690,Dharangaon,sorgum(jawar),0,0,0
+691,Dharangaon,wheat(husked),0,0,0
+692,Dharni,chino,0,0,0
+693,Dharni,cotton,0,4000,4000
+694,Dharni,maize,0,0,0
+695,Dharni,sorgum(jawar),0,0,0
+696,Dharni,soybean,0,3200,3200
+697,Dharni,wheat(husked),0,1400,1400
+698,Dhule,bajri,1512,1637,1637
+699,Dhule,black gram,5893,10890,10890
+700,Dhule,castor seed,3275,3331,3331
+701,Dhule,chillies(red),6564,11500,11500
+702,Dhule,cowpea,4210,3995,3995
+703,Dhule,gram,3053,5020,5020
+704,Dhule,green gram,7706,8820,8820
+705,Dhule,ground nut pods (dry),5151,5970,5970
+706,Dhule,horse gram,4325,4000,4000
+707,Dhule,maize,1274,1581,1581
+708,Dhule,matki,6190,7707,7707
+709,Dhule,onion,1904,2697,2697
+710,Dhule,pigeon pea (tur),5395,9146,9146
+711,Dhule,sesamum,10983,9108,9108
+712,Dhule,sorgum(jawar),2234,1901,1901
+713,Dhule,soybean,3281,3818,3818
+714,Dhule,wheat(husked),1768,2004,2004
+715,Digras,bajri,0,2105,2105
+716,Digras,black gram,0,10431,10431
+717,Digras,cotton,4038,4100,4100
+718,Digras,gram,2410,4358,4358
+719,Digras,green gram,0,8900,8900
+720,Digras,pigeon pea (tur),4818,9608,9608
+721,Digras,sesamum,0,7605,7605
+722,Digras,sorgum(jawar),0,1573,1573
+723,Digras,soybean,3287,3763,3763
+724,Digras,wheat(husked),0,1783,1783
+725,Dindori-Vani,onion,1814,2789,2789
+726,Dindori,onion,1938,1849,1849
+727,Dondaicha-Sindkheda,bajri,0,1366,1366
+728,Dondaicha-Sindkheda,gram,0,0,0
+729,Dondaicha-Sindkheda,green gram,0,0,0
+730,Dondaicha-Sindkheda,maize,0,1313,1313
+731,Dondaicha-Sindkheda,matki,0,0,0
+732,Dondaicha-Sindkheda,sorgum(jawar),0,1369,1369
+733,Dondaicha-Sindkheda,wheat(husked),0,1513,1513
+734,Dondaicha,bajri,1518,1523,1523
+735,Dondaicha,black gram,5260,10001,10001
+736,Dondaicha,chillies(red),2950,4658,4658
+737,Dondaicha,gram,3077,4823,4823
+738,Dondaicha,green gram,8320,8652,8652
+739,Dondaicha,ground nut pods (dry),4366,5894,5894
+740,Dondaicha,maize,1450,1544,1544
+741,Dondaicha,matki,6824,8000,8000
+742,Dondaicha,pigeon pea (tur),4082,8690,8690
+743,Dondaicha,sorgum(jawar),1859,2039,2039
+744,Dondaicha,wheat(husked),1750,1989,1989
+745,Dound,bajri,1639,1975,1975
+746,Dound,cowpea,0,7000,7000
+747,Dound,gram,2641,4527,4527
+748,Dound,green gram,8000,8800,8800
+749,Dound,lemon,0,451,451
+750,Dound,maize,1240,1663,1663
+751,Dound,pigeon pea (tur),0,7282,7282
+752,Dound,sorgum(jawar),2736,2585,2585
+753,Dound,wheat(husked),1881,2143,2143
+754,Dudhani,bajri,1625,1598,1598
+755,Dudhani,black gram,6662,10462,10462
+756,Dudhani,gram,2992,4978,4978
+757,Dudhani,green gram,7453,8850,8850
+758,Dudhani,maize,1278,1555,1555
+759,Dudhani,pigeon pea (tur),5163,12006,12006
+760,Dudhani,sorgum(jawar),1787,2452,2452
+761,Dudhani,wheat(husked),1605,2021,2021
+762,Fulambri,cotton,0,4669,4669
+763,Fulambri,maize,1015,1310,1310
+764,Gadchiroli,paddy-unhusked,2212,2254,2254
+765,Gadhinglaj,chillies(red),42556,45114,45114
+766,Gadhinglaj,jaggery,3139,3095,3095
+767,Gangakhed,cotton,0,4370,4370
+768,Gangakhed,soybean,3119,3737,3737
+769,Gangapur,bajri,1543,1723,1723
+770,Gangapur,gram,2756,4633,4633
+771,Gangapur,green gram,7923,8195,8195
+772,Gangapur,maize,1319,1728,1728
+773,Gangapur,onion,2011,2578,2578
+774,Gangapur,pigeon pea (tur),4874,8700,8700
+775,Gangapur,sorgum(jawar),2016,1809,1809
+776,Gangapur,soybean,3326,3622,3622
+777,Gangapur,wheat(husked),1735,1902,1902
+778,Gevrai,bajri,1495,1851,1851
+779,Gevrai,black gram,0,8800,8800
+780,Gevrai,cotton,4044,4240,4240
+781,Gevrai,gram,2576,4792,4792
+782,Gevrai,green gram,7793,8684,8684
+783,Gevrai,ground nut pods (dry),3200,5000,5000
+784,Gevrai,maize,1233,1447,1447
+785,Gevrai,matki,6894,7800,7800
+786,Gevrai,mustard,0,3700,3700
+787,Gevrai,pigeon pea (tur),5112,13085,13085
+788,Gevrai,safflower,0,2400,2400
+789,Gevrai,sesamum,12138,10270,10270
+790,Gevrai,sorgum(jawar),2370,2254,2254
+791,Gevrai,soybean,5727,3778,3778
+792,Gevrai,sunflower,3000,3422,3422
+793,Gevrai,wheat(husked),1788,2229,2229
+794,Ghansawangi,bajri,1600,1725,1725
+795,Ghansawangi,cotton,4020,4330,4330
+796,Ghansawangi,gram,0,4600,4600
+797,Ghansawangi,green gram,6450,7950,7950
+798,Ghansawangi,pigeon pea (tur),0,8388,8388
+799,Ghansawangi,sorgum(jawar),0,1800,1800
+800,Ghansawangi,soybean,3288,3967,3967
+801,Ghansawangi,wheat(husked),1850,2200,2200
+802,Ghatanji,cotton,4038,4368,4368
+803,Ghatanji,gram,0,3800,3800
+804,Ghatanji,pigeon pea (tur),0,8344,8344
+805,Ghatanji,soybean,3225,3551,3551
+806,Ghoti,bitter gourd,3026,3077,3077
+807,Ghoti,brinjal,2788,2400,2400
+808,Ghoti,cabbage,1777,1575,1575
+809,Ghoti,capsicum,0,1900,1900
+810,Ghoti,cucumber,3000,3500,3500
+811,Ghoti,flower,1867,1780,1780
+812,Ghoti,ladies finger,3000,3893,3893
+813,Ghoti,paddy-unhusked,2266,2142,2142
+814,Ghoti,tomato,3455,2729,2729
+815,Gondiya,paddy-unhusked,1482,1742,1742
+816,Gondpimpri,gram,0,4075,4075
+817,Gondpimpri,paddy-unhusked,2121,2272,2272
+818,Gondpimpri,pigeon pea (tur),4450,7000,7000
+819,Gondpimpri,soybean,3054,3779,3779
+820,Goregaon,paddy-unhusked,1628,1662,1662
+821,Hadgaon-Tamsa,gram,0,0,0
+822,Hadgaon-Tamsa,pigeon pea (tur),0,9148,9148
+823,Hadgaon-Tamsa,soybean,0,3536,3536
+824,Hadgaon,cotton,4140,4358,4358
+825,Hadgaon,gram,0,4300,4300
+826,Hadgaon,pigeon pea (tur),4533,8800,8800
+827,Hadgaon,soybean,3750,3674,3674
+828,Hadgaon,wheat(husked),1800,1770,1770
+829,Hinganghat,cotton,0,4378,4378
+830,Hinganghat,gram,2788,4723,4723
+831,Hinganghat,pigeon pea (tur),5095,10522,10522
+832,Hinganghat,soybean,3484,4011,4011
+833,Hinganghat,wheat(husked),0,1576,1576
+834,Hingna,pigeon pea (tur),0,7500,7500
+835,Hingna,soybean,3263,3567,3567
+836,Hingoli,black gram,4996,11203,11203
+837,Hingoli,cotton,0,4769,4769
+838,Hingoli,gram,0,5197,5197
+839,Hingoli,green gram,7268,8201,8201
+840,Hingoli,ground nut pods (dry),4077,5750,5750
+841,Hingoli,pigeon pea (tur),5045,9769,9769
+842,Hingoli,sorgum(jawar),1709,1774,1774
+843,Hingoli,soybean,3389,3820,3820
+844,Hingoli,turmeric,6530,10700,10700
+845,Hingoli,wheat(husked),1791,2260,2260
+846,Indapur (Nimgaon Ketki),bajri,0,1638,1638
+847,Indapur (Nimgaon Ketki),gram,0,4141,4141
+848,Indapur (Nimgaon Ketki),maize,0,1599,1599
+849,Indapur (Nimgaon Ketki),sorgum(jawar),0,2156,2156
+850,Indapur (Nimgaon Ketki),wheat(husked),0,1699,1699
+851,Indapur-Bhigwan,bajri,1838,2006,2006
+852,Indapur-Bhigwan,black gram,3167,10038,10038
+853,Indapur-Bhigwan,chillies(red),4500,10467,10467
+854,Indapur-Bhigwan,coriander (dry),10100,11000,11000
+855,Indapur-Bhigwan,cowpea,4400,6225,6225
+856,Indapur-Bhigwan,ghevda seed,24756,3800,3800
+857,Indapur-Bhigwan,gram,2767,4863,4863
+858,Indapur-Bhigwan,green gram,7375,8367,8367
+859,Indapur-Bhigwan,green peas (dry),0,2800,2800
+860,Indapur-Bhigwan,ground nut pods (dry),3480,6000,6000
+861,Indapur-Bhigwan,horse gram,3367,4125,4125
+862,Indapur-Bhigwan,maize,1406,1641,1641
+863,Indapur-Bhigwan,matki,5300,9100,9100
+864,Indapur-Bhigwan,pavtta,0,3375,3375
+865,Indapur-Bhigwan,pigeon pea (tur),3825,8940,8940
+866,Indapur-Bhigwan,rice(paddy-hus),1463,1548,1548
+867,Indapur-Bhigwan,safflower,2500,2950,2950
+868,Indapur-Bhigwan,sesamum,0,8625,8625
+869,Indapur-Bhigwan,sorgum(jawar),2650,3076,3076
+870,Indapur-Bhigwan,soybean,3085,3484,3484
+871,Indapur-Bhigwan,sunflower,2850,3263,3263
+872,Indapur-Bhigwan,wheat(husked),2300,2550,2550
+873,Indapur-Bhigwan,wheat(unhusked),2901,3156,3156
+874,Indapur,bajri,1741,1750,1750
+875,Indapur,banana,1255,1632,1632
+876,Indapur,black gram,0,8250,8250
+877,Indapur,chillies(red),0,7533,7533
+878,Indapur,cowpea,2951,5600,5600
+879,Indapur,gram,2400,4336,4336
+880,Indapur,green gram,8000,8451,8451
+881,Indapur,ground nut pods (dry),0,5533,5533
+882,Indapur,jaggery,0,2454,2454
+883,Indapur,maize,1261,1617,1617
+884,Indapur,onion,1229,2704,2704
+885,Indapur,pigeon pea (tur),0,9050,9050
+886,Indapur,pomegranate,12725,13400,13400
+887,Indapur,rice(paddy-hus),0,1441,1441
+888,Indapur,sesamum,0,6300,6300
+889,Indapur,sorgum(jawar),3000,2604,2604
+890,Indapur,soybean,0,3409,3409
+891,Indapur,sunflower,3100,3418,3418
+892,Indapur,wheat(husked),0,2511,2511
+893,Islampur,brinjal,200,0,0
+894,Islampur,flower,0,350,350
+895,Islampur,tomato,170,160,160
+896,Jafrabad,cotton,4007,4335,4335
+897,Jafrabad,gram,0,3763,3763
+898,Jafrabad,green gram,0,8000,8000
+899,Jafrabad,maize,1375,1421,1421
+900,Jafrabad,sorgum(jawar),1100,1200,1200
+901,Jafrabad,soybean,3221,3667,3667
+902,Jafrabad,wheat(husked),1600,1579,1579
+903,Jalgaon Jamod-Aasalgaon,black gram,5183,8000,8000
+904,Jalgaon Jamod-Aasalgaon,gram,2514,4450,4450
+905,Jalgaon Jamod-Aasalgaon,green gram,7875,10000,10000
+906,Jalgaon Jamod-Aasalgaon,maize,1200,1236,1236
+907,Jalgaon Jamod-Aasalgaon,pigeon pea (tur),4840,9200,9200
+908,Jalgaon Jamod-Aasalgaon,sorgum(jawar),1319,1457,1457
+909,Jalgaon Jamod-Aasalgaon,soybean,3314,3763,3763
+910,Jalgaon Jamod-Aasalgaon,wheat(husked),1567,1542,1542
+911,Jalgaon Jamod,gram,2250,4000,4000
+912,Jalgaon Jamod,green gram,6750,6200,6200
+913,Jalgaon Jamod,ground nut pods (dry),3710,5413,5413
+914,Jalgaon Jamod,maize,1086,1279,1279
+915,Jalgaon Jamod,pigeon pea (tur),4600,6850,6850
+916,Jalgaon Jamod,sorgum(jawar),1175,1500,1500
+917,Jalgaon Jamod,soybean,3233,3483,3483
+918,Jalgaon Jamod,wheat(husked),1514,1500,1500
+919,Jalgaon-Masawat,maize,0,0,0
+920,Jalgaon,amla,1925,1647,1647
+921,Jalgaon,apple,7833,7500,7500
+922,Jalgaon,bajri,1449,1532,1532
+923,Jalgaon,banana,494,461,461
+924,Jalgaon,bitter gourd,3788,4412,4412
+925,Jalgaon,black gram,5495,11709,11709
+926,Jalgaon,bor,2278,2500,2500
+927,Jalgaon,brinjal,2600,2350,2350
+928,Jalgaon,cabbage,1065,1335,1335
+929,Jalgaon,carrot,0,1359,1359
+930,Jalgaon,chavli (shenga ),4729,4333,4333
+931,Jalgaon,chikoo,0,2500,2500
+932,Jalgaon,cluster bean,4367,4372,4372
+933,Jalgaon,coriander  ,5048,5818,5818
+934,Jalgaon,coriander (dry),12293,11542,11542
+935,Jalgaon,cotton,4050,4100,4100
+936,Jalgaon,cucumber,1500,1767,1767
+937,Jalgaon,custard apple,6300,5150,5150
+938,Jalgaon,flower,2306,3246,3246
+939,Jalgaon,garlic,4000,14000,14000
+940,Jalgaon,ginger (fresh),5715,4416,4416
+941,Jalgaon,gram,3156,4445,4445
+942,Jalgaon,grapes,0,4200,4200
+943,Jalgaon,green chilli,3228,3584,3584
+944,Jalgaon,green gram,7286,8559,8559
+945,Jalgaon,guava,2125,2050,2050
+946,Jalgaon,jaggery,3501,2811,2811
+947,Jalgaon,ladies finger,2868,3837,3837
+948,Jalgaon,lemon,3589,4722,4722
+949,Jalgaon,maize(corn.),1160,1140,1140
+950,Jalgaon,maize,1300,1517,1517
+951,Jalgaon,mango(raw),0,2920,2920
+952,Jalgaon,mango,0,4512,4512
+953,Jalgaon,melon,850,1325,1325
+954,Jalgaon,methi (bhaji),3650,5341,5341
+955,Jalgaon,mosambi,2600,4167,4167
+956,Jalgaon,onion,1595,2835,2835
+957,Jalgaon,orange,2165,1813,1813
+958,Jalgaon,papai,1900,1467,1467
+959,Jalgaon,pigeon pea (tur),4000,9900,9900
+960,Jalgaon,pomegranate,7225,8167,8167
+961,Jalgaon,potato,2382,1344,1344
+962,Jalgaon,shevga,0,4000,4000
+963,Jalgaon,sorgum(jawar),1592,1537,1537
+964,Jalgaon,soybean,3288,3400,3400
+965,Jalgaon,spinach,2038,2006,2006
+966,Jalgaon,squash gourd,1300,2000,2000
+967,Jalgaon,tomato,2531,1889,1889
+968,Jalgaon,wal papdi,2317,2600,2600
+969,Jalgaon,wheat(husked),1494,1854,1854
+970,Jalkot,black gram,4813,9700,9700
+971,Jalkot,green gram,6638,8213,8213
+972,Jalkot,pigeon pea (tur),0,9500,9500
+973,Jalkot,sorgum(jawar),0,1526,1526
+974,Jalkot,soybean,3438,3787,3787
+975,Jalna-Badnapur,bajri,1450,1392,1392
+976,Jalna-Badnapur,cotton,4050,4355,4355
+977,Jalna-Badnapur,maize,1175,1350,1350
+978,Jalna-Badnapur,pigeon pea (tur),0,9188,9188
+979,Jalna-Badnapur,sorgum(jawar),3051,1500,1500
+980,Jalna,bajri,1762,1828,1828
+981,Jalna,banana,942,1000,1000
+982,Jalna,black gram,5321,11314,11314
+983,Jalna,castor seed,3200,3240,3240
+984,Jalna,cotton,4193,4143,4143
+985,Jalna,gram,2927,4809,4809
+986,Jalna,green gram,8071,9016,9016
+987,Jalna,jaggery,2707,2556,2556
+988,Jalna,maize,1249,1498,1498
+989,Jalna,matki,0,9776,9776
+990,Jalna,mosambi,1696,2550,2550
+991,Jalna,mustard,4450,3800,3800
+992,Jalna,pigeon pea (tur),5206,10827,10827
+993,Jalna,rajgira,6233,5750,5750
+994,Jalna,safflower,2275,2475,2475
+995,Jalna,sesamum,11384,8000,8000
+996,Jalna,sorgum(jawar),2705,2788,2788
+997,Jalna,soybean,3300,4538,4538
+998,Jalna,sunflower,2400,3000,3000
+999,Jalna,wheat(husked),1699,2179,2179
+1000,Jamkhed,bajri,1503,1833,1833
+1001,Jamkhed,black gram,6119,9700,9700
+1002,Jamkhed,gram,0,3890,3890
+1003,Jamkhed,green gram,7167,7500,7500
+1004,Jamkhed,onion,2133,3239,3239
+1005,Jamkhed,pigeon pea (tur),5050,8824,8824
+1006,Jamkhed,sorgum(jawar),3239,3211,3211
+1007,Jamkhed,soybean,3280,3742,3742
+1008,Jamkhed,wheat(husked),2400,2368,2368
+1009,Jamner-Neri,cotton,4050,4316,4316
+1010,Jamner-Neri,maize,0,1393,1393
+1011,Jamner,cotton,4050,4324,4324
+1012,Jamner,maize,0,1402,1402
+1013,Jawala-Bajar,cotton,4045,4213,4213
+1014,Jawala-Bajar,gram,0,3383,3383
+1015,Jawala-Bajar,pigeon pea (tur),4350,8733,8733
+1016,Jawala-Bajar,sorgum(jawar),0,1800,1800
+1017,Jawala-Bajar,soybean,3240,3730,3730
+1018,Jawala-Bajar,turmeric,0,8033,8033
+1019,Jawala-Bajar,wheat(husked),1900,1790,1790
+1020,Jintur-Bori,gram,2487,4500,4500
+1021,Jintur-Bori,green gram,7528,7813,7813
+1022,Jintur-Bori,pigeon pea (tur),4576,8567,8567
+1023,Jintur-Bori,safflower,2463,2688,2688
+1024,Jintur-Bori,sorgum(jawar),1362,1578,1578
+1025,Jintur-Bori,soybean,3323,3763,3763
+1026,Jintur-Bori,wheat(husked),1599,1723,1723
+1027,Jintur,black gram,5362,10594,10594
+1028,Jintur,cotton,4050,4372,4372
+1029,Jintur,gram,2955,4400,4400
+1030,Jintur,green gram,7748,8499,8499
+1031,Jintur,ground nut pods (dry),3685,5692,5692
+1032,Jintur,pigeon pea (tur),4347,8833,8833
+1033,Jintur,sorgum(jawar),1867,1853,1853
+1034,Jintur,soybean,3309,3876,3876
+1035,Jintur,turmeric,5632,9301,9301
+1036,Jintur,wheat(husked),1729,2001,2001
+1037,Junnar (Alephata),onion,2242,1785,1785
+1038,Junnar (Alephata),pomegranate,0,0,0
+1039,Junnar (Narayangaon),coriander  ,5502,0,0
+1040,Junnar (Narayangaon),math (bhaji),6137,0,0
+1041,Junnar (Narayangaon),tomato,2293,3516,3516
+1042,Junnar-Otur,beet root,0,1500,1500
+1043,Junnar-Otur,bottle gourd,0,4000,4000
+1044,Junnar-Otur,brinjal,0,1000,1000
+1045,Junnar-Otur,cabbage,0,700,700
+1046,Junnar-Otur,capsicum,0,2000,2000
+1047,Junnar-Otur,carrot,0,0,0
+1048,Junnar-Otur,chavli (shenga ),0,1500,1500
+1049,Junnar-Otur,cluster bean,0,0,0
+1050,Junnar-Otur,cucumber,0,1200,1200
+1051,Junnar-Otur,farshi,0,2000,2000
+1052,Junnar-Otur,flower,0,1000,1000
+1053,Junnar-Otur,ghevda,0,3000,3000
+1054,Junnar-Otur,green chilli,0,4000,4000
+1055,Junnar-Otur,ladies finger,0,500,500
+1056,Junnar-Otur,onion,2644,1850,1850
+1057,Junnar-Otur,potato,1720,1425,1425
+1058,Junnar-Otur,small gourd,0,3000,3000
+1059,Junnar-Otur,walvad,0,2200,2200
+1060,Junnar,onion,2288,2631,2631
+1061,Junnar,potato,1650,1430,1430
+1062,Kada (Ashti),bajri,1365,1315,1315
+1063,Kada (Ashti),black gram,6067,7400,7400
+1064,Kada (Ashti),gram,0,4180,4180
+1065,Kada (Ashti),green gram,6800,7656,7656
+1066,Kada (Ashti),maize,1380,1300,1300
+1067,Kada (Ashti),pigeon pea (tur),0,5400,5400
+1068,Kada (Ashti),sorgum(jawar),0,2550,2550
+1069,Kada (Ashti),soybean,2701,3500,3500
+1070,Kada (Ashti),wheat(husked),2100,1846,1846
+1071,Kada,bajri,1695,1626,1626
+1072,Kada,black gram,6007,10513,10513
+1073,Kada,gram,2706,4638,4638
+1074,Kada,green gram,8150,8051,8051
+1075,Kada,maize,1407,1597,1597
+1076,Kada,onion,2075,4450,4450
+1077,Kada,pigeon pea (tur),4807,9025,9025
+1078,Kada,sorgum(jawar),3189,2963,2963
+1079,Kada,soybean,3315,3575,3575
+1080,Kada,sunflower,3138,3500,3500
+1081,Kada,tamarind,0,5194,5194
+1082,Kada,wheat(husked),2023,2120,2120
+1083,Kalamb (Os),bajri,1721,1653,1653
+1084,Kalamb (Os),black gram,5572,9035,9035
+1085,Kalamb (Os),castor seed,3350,3570,3570
+1086,Kalamb (Os),coriander (dry),32563,10303,10303
+1087,Kalamb (Os),gram,2832,5045,5045
+1088,Kalamb (Os),green gram,8053,9096,9096
+1089,Kalamb (Os),ground nut pods (dry),4325,5031,5031
+1090,Kalamb (Os),jaggery,2550,2521,2521
+1091,Kalamb (Os),maize,1295,1774,1774
+1092,Kalamb (Os),mustard,0,3751,3751
+1093,Kalamb (Os),pigeon pea (tur),4414,12197,12197
+1094,Kalamb (Os),safflower,2422,2831,2831
+1095,Kalamb (Os),sesamum,8737,8482,8482
+1096,Kalamb (Os),sorgum(jawar),2148,2350,2350
+1097,Kalamb (Os),soybean,3353,3886,3886
+1098,Kalamb (Os),sunflower,2988,3466,3466
+1099,Kalamb (Os),tamarind,0,4672,4672
+1100,Kalamb (Os),wheat(husked),2025,3186,3186
+1101,Kalamb (Yawatmal),pigeon pea (tur),0,8069,8069
+1102,Kalamb (Yawatmal),soybean,3307,3696,3696
+1103,Kalamnuri,cotton,4275,4300,4300
+1104,Kalamnuri,gram,3200,4000,4000
+1105,Kalamnuri,pigeon pea (tur),0,8000,8000
+1106,Kalamnuri,sorgum(jawar),0,1600,1600
+1107,Kalamnuri,soybean,4000,3505,3505
+1108,Kalamnuri,wheat(husked),1600,1600,1600
+1109,Kalmeshwar,bottle gourd,0,1070,1070
+1110,Kalmeshwar,brinjal,1846,1712,1712
+1111,Kalmeshwar,cabbage,0,648,648
+1112,Kalmeshwar,chavli (shenga ),2573,3031,3031
+1113,Kalmeshwar,cluster bean,0,2300,2300
+1114,Kalmeshwar,coriander  ,3412,6238,6238
+1115,Kalmeshwar,cotton,4023,4508,4508
+1116,Kalmeshwar,cucumber,1526,1558,1558
+1117,Kalmeshwar,flower,1842,2119,2119
+1118,Kalmeshwar,gram,2406,4511,4511
+1119,Kalmeshwar,green chilli,3658,3370,3370
+1120,Kalmeshwar,ladies finger,2723,2240,2240
+1121,Kalmeshwar,methi (bhaji),1676,2088,2088
+1122,Kalmeshwar,pigeon pea (tur),4361,7299,7299
+1123,Kalmeshwar,pumpkin,900,1279,1279
+1124,Kalmeshwar,raddish,775,1359,1359
+1125,Kalmeshwar,soybean,3362,3981,3981
+1126,Kalmeshwar,spinach,1475,2092,2092
+1127,Kalmeshwar,tomato,2284,2320,2320
+1128,Kalmeshwar,walvad,4200,4492,4492
+1129,Kalmeshwar,wheat(husked),1450,1643,1643
+1130,Kalvan,bajri,1460,1520,1520
+1131,Kalvan,gram,2645,4701,4701
+1132,Kalvan,green gram,7500,7976,7976
+1133,Kalvan,ground nut pods (dry),5384,7844,7844
+1134,Kalvan,maize,1304,1544,1544
+1135,Kalvan,onion,1900,2848,2848
+1136,Kalvan,pigeon pea (tur),3100,9450,9450
+1137,Kalvan,soybean,3376,6304,6304
+1138,Kalvan,sunflower,3000,4726,4726
+1139,Kalvan,wheat(husked),1684,2455,2455
+1140,Kalyan,apple,0,13500,13500
+1141,Kalyan,bajri,0,1875,1875
+1142,Kalyan,banana,1000,8000,8000
+1143,Kalyan,bitter gourd,3600,4280,4280
+1144,Kalyan,black gram,0,11700,11700
+1145,Kalyan,bor,1800,3500,3500
+1146,Kalyan,bottle gourd,1400,1527,1527
+1147,Kalyan,brinjal,3500,2848,2848
+1148,Kalyan,cabbage,900,1200,1200
+1149,Kalyan,capsicum,3250,3183,3183
+1150,Kalyan,carrot,0,2275,2275
+1151,Kalyan,chikoo,0,3500,3500
+1152,Kalyan,cluster bean,3750,4500,4500
+1153,Kalyan,coriander (dry),0,25000,25000
+1154,Kalyan,cucumber,0,1604,1604
+1155,Kalyan,curry leaves,0,0,0
+1156,Kalyan,custard apple,4000,5400,5400
+1157,Kalyan,elephant root,1800,3906,3906
+1158,Kalyan,flower,1700,1525,1525
+1159,Kalyan,garlic,5500,13110,13110
+1160,Kalyan,ghevda,3550,4422,4422
+1161,Kalyan,gr.nut kernels,0,9700,9700
+1162,Kalyan,gram,0,10000,10000
+1163,Kalyan,grapes,0,9346,9346
+1164,Kalyan,green chilli,3600,4359,4359
+1165,Kalyan,green gram,0,9400,9400
+1166,Kalyan,green peas (dry),0,5000,5000
+1167,Kalyan,green-peas,4950,9219,9219
+1168,Kalyan,guava,2200,6000,6000
+1169,Kalyan,indian bean,0,6567,6567
+1170,Kalyan,jaggery,0,4000,4000
+1171,Kalyan,ladies finger,10000,2800,2800
+1172,Kalyan,lemon,0,4500,4500
+1173,Kalyan,mango,0,5000,5000
+1174,Kalyan,matki,0,11000,11000
+1175,Kalyan,mosambi,0,4086,4086
+1176,Kalyan,onion,1867,3006,3006
+1177,Kalyan,orange,0,5000,5000
+1178,Kalyan,papai,1700,2506,2506
+1179,Kalyan,potato,1950,2153,2153
+1180,Kalyan,rice(paddy-hus),0,4700,4700
+1181,Kalyan,ridge gourd,4000,4200,4200
+1182,Kalyan,sesamum,0,12040,12040
+1183,Kalyan,shevga,2650,6500,6500
+1184,Kalyan,small gourd,3500,4000,4000
+1185,Kalyan,sorgum(jawar),0,2600,2600
+1186,Kalyan,squash gourd,1000,1000,1000
+1187,Kalyan,tomato,2400,3200,3200
+1188,Kalyan,wheat(husked),0,2317,2317
+1189,Kamthi,amla,3000,3000,3000
+1190,Kamthi,beet root,4000,4750,4750
+1191,Kamthi,bitter gourd,5000,5571,5571
+1192,Kamthi,bottle gourd,2064,1329,1329
+1193,Kamthi,brinjal,1947,2672,2672
+1194,Kamthi,cabbage,2768,2414,2414
+1195,Kamthi,capsicum,5684,5045,5045
+1196,Kamthi,carrot,5071,4444,4444
+1197,Kamthi,chavli (pala),2308,2625,2625
+1198,Kamthi,chavli (shenga ),4000,4887,4887
+1199,Kamthi,cluster bean,4217,3364,3364
+1200,Kamthi,coriander  ,8048,7389,7389
+1201,Kamthi,cucumber,3750,3773,3773
+1202,Kamthi,custard apple,10000,9475,9475
+1203,Kamthi,dhemse,7545,5714,5714
+1204,Kamthi,flower,3173,3452,3452
+1205,Kamthi,garlic,10000,25333,25333
+1206,Kamthi,ginger (fresh),9100,7182,7182
+1207,Kamthi,green chilli,5556,5806,5806
+1208,Kamthi,green peas (dry),7333,6111,6111
+1209,Kamthi,green-peas,4000,4400,4400
+1210,Kamthi,guava,5000,4500,4500
+1211,Kamthi,kand,0,2700,2700
+1212,Kamthi,kanda pat,4400,4200,4200
+1213,Kamthi,ladies finger,4820,5000,5000
+1214,Kamthi,lemon,3250,3750,3750
+1215,Kamthi,mango,0,8875,8875
+1216,Kamthi,methi (bhaji),4905,7167,7167
+1217,Kamthi,mint,5000,4864,4864
+1218,Kamthi,mosambi,3267,3000,3000
+1219,Kamthi,onion,2500,2991,2991
+1220,Kamthi,orange,3647,3000,3000
+1221,Kamthi,papai,3000,2056,2056
+1222,Kamthi,parwar,4000,5000,5000
+1223,Kamthi,potato,0,2025,2025
+1224,Kamthi,pumpkin,2107,1778,1778
+1225,Kamthi,raddish,2261,2750,2750
+1226,Kamthi,small gourd,3292,2864,2864
+1227,Kamthi,spinach,3232,3080,3080
+1228,Kamthi,squash gourd,0,4667,4667
+1229,Kamthi,tomato,2307,3780,3780
+1230,Kamthi,wal bhaji,8667,4467,4467
+1231,Kamthi,zendu,4400,5000,5000
+1232,Kannad,bajri,1395,1790,1790
+1233,Kannad,ginger (fresh),0,3944,3944
+1234,Kannad,gram,2500,4400,4400
+1235,Kannad,green gram,6500,7500,7500
+1236,Kannad,maize,1100,1343,1343
+1237,Kannad,pigeon pea (tur),0,8750,8750
+1238,Kannad,sorgum(jawar),1540,1751,1751
+1239,Kannad,wheat(husked),1807,1749,1749
+1240,Karad,apple,16500,19538,19538
+1241,Karad,banana,1543,1821,1821
+1242,Karad,bitter gourd,2986,3750,3750
+1243,Karad,bor,2000,2325,2325
+1244,Karad,bottle gourd,1508,1350,1350
+1245,Karad,brinjal,1692,1663,1663
+1246,Karad,cabbage,1029,1048,1048
+1247,Karad,capsicum,3580,2900,2900
+1248,Karad,carrot,1367,2000,2000
+1249,Karad,chikoo,2125,3053,3053
+1250,Karad,cluster bean,3533,3770,3770
+1251,Karad,cucumber,1680,2225,2225
+1252,Karad,custard apple,3833,4400,4400
+1253,Karad,flower,1458,1286,1286
+1254,Karad,garlic,5200,6333,6333
+1255,Karad,ghevda,3333,3000,3000
+1256,Karad,ginger (fresh),4542,4222,4222
+1257,Karad,grapes,0,4806,4806
+1258,Karad,green chilli,3243,3500,3500
+1259,Karad,green-peas,7500,6833,6833
+1260,Karad,jaggery,3900,6100,6100
+1261,Karad,ladies finger,3471,3050,3050
+1262,Karad,lemon,0,0,0
+1263,Karad,mango,0,7294,7294
+1264,Karad,math (bhaji),0,10,10
+1265,Karad,mosambi,6286,6333,6333
+1266,Karad,onion,2150,2350,2350
+1267,Karad,pavata,5500,3625,3625
+1268,Karad,pavtta,2717,3500,3500
+1269,Karad,pomegranate,6200,5500,5500
+1270,Karad,potato,2825,2200,2200
+1271,Karad,ridge gourd,2613,2944,2944
+1272,Karad,shevga,6083,6600,6600
+1273,Karad,snake gourd,2580,2357,2357
+1274,Karad,squash gourd,1800,2630,2630
+1275,Karad,sweet potato,2000,1200,1200
+1276,Karad,tomato,1938,1986,1986
+1277,Karad,water melon,0,12989,12989
+1278,Karanja,bajri,1600,1775,1775
+1279,Karanja,batbati,4935,5328,5328
+1280,Karanja,black gram,5531,11652,11652
+1281,Karanja,gram,2824,4986,4986
+1282,Karanja,green gram,7630,8640,8640
+1283,Karanja,ground nut pods (dry),3987,5950,5950
+1284,Karanja,pigeon pea (tur),5146,10271,10271
+1285,Karanja,sesamum,9853,8765,8765
+1286,Karanja,sorgum(jawar),1619,1594,1594
+1287,Karanja,soybean,3353,3931,3931
+1288,Karanja,wheat(husked),1603,1822,1822
+1289,Karjat (Raigad),paddy-unhusked,1459,1442,1442
+1290,Karjat (Raigad),rice(paddy-hus),4400,4400,4400
+1291,Karmala,bajri,1742,0,0
+1292,Karmala,gram,0,5000,5000
+1293,Karmala,maize,1237,1375,1375
+1294,Karmala,sorgum(jawar),3284,3291,3291
+1295,Karmala,sunflower,3343,3775,3775
+1296,Katol,black gram,0,8117,8117
+1297,Katol,cotton,4020,4498,4498
+1298,Katol,gram,2779,4795,4795
+1299,Katol,green gram,0,5100,5100
+1300,Katol,ground nut pods (dry),4706,6190,6190
+1301,Katol,maize,0,1278,1278
+1302,Katol,mosambi,0,1698,1698
+1303,Katol,orange,1035,1983,1983
+1304,Katol,pigeon pea (tur),4548,9426,9426
+1305,Katol,sorgum(jawar),1259,1463,1463
+1306,Katol,soybean,3315,3846,3846
+1307,Katol,wheat(husked),1543,1591,1591
+1308,Kej,bajri,1871,1961,1961
+1309,Kej,bhagar-vari,0,2101,2101
+1310,Kej,black gram,5387,9940,9940
+1311,Kej,coriander (dry),9000,9100,9100
+1312,Kej,gram,0,4738,4738
+1313,Kej,green gram,7053,8619,8619
+1314,Kej,maize,1403,1631,1631
+1315,Kej,pigeon pea (tur),4700,10785,10785
+1316,Kej,sesamum,9700,9226,9226
+1317,Kej,sorgum(jawar),2346,2450,2450
+1318,Kej,soybean,3298,3793,3793
+1319,Kej,wheat(husked),1911,3044,3044
+1320,Khamgaon,bajri,1394,1531,1531
+1321,Khamgaon,black gram,5702,11634,11634
+1322,Khamgaon,bullack,30000,20000,20000
+1323,Khamgaon,chillies(red),9563,11183,11183
+1324,Khamgaon,cotton,4050,4403,4403
+1325,Khamgaon,gram,2900,4936,4936
+1326,Khamgaon,green gram,8116,8722,8722
+1327,Khamgaon,ground nut pods (dry),3605,5365,5365
+1328,Khamgaon,lemon,553,908,908
+1329,Khamgaon,maize,1295,1362,1362
+1330,Khamgaon,neem-seed,0,1004,1004
+1331,Khamgaon,pigeon pea (tur),5090,10873,10873
+1332,Khamgaon,safflower,0,2400,2400
+1333,Khamgaon,sesamum,9086,9293,9293
+1334,Khamgaon,sorgum(jawar),1448,1496,1496
+1335,Khamgaon,soybean,3410,3852,3852
+1336,Khamgaon,sunflower,3104,3401,3401
+1337,Khamgaon,wheat(husked),1635,2040,2040
+1338,Khed (Shel Pimpalgaon),bottle gourd,1122,877,877
+1339,Khed (Shel Pimpalgaon),brinjal,2739,2473,2473
+1340,Khed (Shel Pimpalgaon),cabbage,660,1010,1010
+1341,Khed (Shel Pimpalgaon),cluster bean,4064,4630,4630
+1342,Khed (Shel Pimpalgaon),cucumber,1553,1555,1555
+1343,Khed (Shel Pimpalgaon),farshi,3945,3100,3100
+1344,Khed (Shel Pimpalgaon),flower,1370,999,999
+1345,Khed (Shel Pimpalgaon),green chilli,3282,2800,2800
+1346,Khed (Shel Pimpalgaon),ladies finger,2644,2750,2750
+1347,Khed (Shel Pimpalgaon),walvad,2430,2061,2061
+1348,Khed-Chakan,bitter gourd,0,3405,3405
+1349,Khed-Chakan,bottle gourd,0,1063,1063
+1350,Khed-Chakan,brinjal,0,3135,3135
+1351,Khed-Chakan,cabbage,0,793,793
+1352,Khed-Chakan,capsicum,0,2276,2276
+1353,Khed-Chakan,carrot,0,1213,1213
+1354,Khed-Chakan,chavli (shenga ),0,2303,2303
+1355,Khed-Chakan,cluster bean,0,4831,4831
+1356,Khed-Chakan,coriander  ,0,0,0
+1357,Khed-Chakan,cucumber,0,1276,1276
+1358,Khed-Chakan,farshi,0,3934,3934
+1359,Khed-Chakan,flower,0,1248,1248
+1360,Khed-Chakan,green chilli,0,2956,2956
+1361,Khed-Chakan,green-peas,0,3636,3636
+1362,Khed-Chakan,ladies finger,0,2828,2828
+1363,Khed-Chakan,onion,0,0,0
+1364,Khed-Chakan,potato,0,930,930
+1365,Khed-Chakan,shevga,0,5581,5581
+1366,Khed-Chakan,squash gourd,0,4008,4008
+1367,Khed-Chakan,tomato,0,1671,1671
+1368,Khed-Chakan,walvad,0,2658,2658
+1369,Khed,cabbage,0,700,700
+1370,Khed,cluster bean,4010,0,0
+1371,Khed,cucumber,0,0,0
+1372,Khed,farshi,0,0,0
+1373,Khed,flower,0,0,0
+1374,Khed,green chilli,0,0,0
+1375,Khultabad,maize,967,1372,1372
+1376,Kille Dharur,bajri,2284,2248,2248
+1377,Kille Dharur,cotton,5392,4425,4425
+1378,Kille Dharur,gram,2475,4696,4696
+1379,Kille Dharur,green gram,7358,7361,7361
+1380,Kille Dharur,maize,1334,1724,1724
+1381,Kille Dharur,pigeon pea (tur),4103,9651,9651
+1382,Kille Dharur,sesamum,11925,9200,9200
+1383,Kille Dharur,sorgum(jawar),2402,2821,2821
+1384,Kille Dharur,soybean,3278,3857,3857
+1385,Kille Dharur,wheat(husked),1975,2636,2636
+1386,Kinwat,cotton,3989,4142,4142
+1387,Kinwat,gram,0,4200,4200
+1388,Kinwat,ground nut pods (dry),0,5100,5100
+1389,Kinwat,pigeon pea (tur),0,9094,9094
+1390,Kinwat,sorgum(jawar),0,1300,1300
+1391,Kinwat,soybean,3238,3600,3600
+1392,Kolhapur-Laxmipuri,bajri,1900,2300,2300
+1393,Kolhapur-Laxmipuri,chillies(red),40800,18000,18000
+1394,Kolhapur-Laxmipuri,cowpea,5000,6000,6000
+1395,Kolhapur-Laxmipuri,gr.nut kernels,7700,9075,9075
+1396,Kolhapur-Laxmipuri,gram,3800,7778,7778
+1397,Kolhapur-Laxmipuri,green gram,7800,10092,10092
+1398,Kolhapur-Laxmipuri,green peas (dry),5200,6422,6422
+1399,Kolhapur-Laxmipuri,lentil,6600,15304,15304
+1400,Kolhapur-Laxmipuri,maize,1600,1732,1732
+1401,Kolhapur-Laxmipuri,paddy-unhusked,1750,1980,1980
+1402,Kolhapur-Laxmipuri,rice(paddy-hus),5650,5392,5392
+1403,Kolhapur-Laxmipuri,sorgum(jawar),3900,3835,3835
+1404,Kolhapur-Laxmipuri,spilt gerrn gram,8993,11767,11767
+1405,Kolhapur-Laxmipuri,spilt pigeon pea,7200,17842,17842
+1406,Kolhapur-Laxmipuri,split black gram,9060,17167,17167
+1407,Kolhapur-Laxmipuri,split gram,4500,6843,6843
+1408,Kolhapur-Laxmipuri,split lentil,6600,7956,7956
+1409,Kolhapur-Laxmipuri,wheat(husked),2800,2900,2900
+1410,Kolhapur-Malkapur,brinjal,0,0,0
+1411,Kolhapur-Malkapur,cabbage,0,0,0
+1412,Kolhapur-Malkapur,capsicum,0,0,0
+1413,Kolhapur-Malkapur,cluster bean,0,0,0
+1414,Kolhapur-Malkapur,coriander  ,0,0,0
+1415,Kolhapur-Malkapur,flower,0,0,0
+1416,Kolhapur-Malkapur,ladies finger,0,0,0
+1417,Kolhapur-Malkapur,squash gourd,0,0,0
+1418,Kolhapur-Malkapur,tomato,0,0,0
+1419,Kolhapur,apple,0,14000,14000
+1420,Kolhapur,awala,0,2600,2600
+1421,Kolhapur,banana,0,875,875
+1422,Kolhapur,beet root,0,2375,2375
+1423,Kolhapur,bitter gourd,0,3412,3412
+1424,Kolhapur,bor,0,2356,2356
+1425,Kolhapur,bottle gourd,0,2108,2108
+1426,Kolhapur,brinjal,0,4040,4040
+1427,Kolhapur,cabbage,0,1500,1500
+1428,Kolhapur,capsicum,0,3432,3432
+1429,Kolhapur,carrot,0,2825,2825
+1430,Kolhapur,chikoo,0,5110,5110
+1431,Kolhapur,cluster bean,0,5000,5000
+1432,Kolhapur,coriander  ,0,14840,14840
+1433,Kolhapur,cucumber,0,3153,3153
+1434,Kolhapur,custard apple,0,12740,12740
+1435,Kolhapur,flower,0,1661,1661
+1436,Kolhapur,garlic,0,11375,11375
+1437,Kolhapur,ghevda,0,3300,3300
+1438,Kolhapur,ginger (fresh),0,5588,5588
+1439,Kolhapur,grapes,0,4000,4000
+1440,Kolhapur,green chilli,0,3600,3600
+1441,Kolhapur,green-peas,0,10083,10083
+1442,Kolhapur,ground nut pods (dry),0,3891,3891
+1443,Kolhapur,guava,0,1667,1667
+1444,Kolhapur,jaggery,3862,4340,4340
+1445,Kolhapur,kanda pat,0,3579,3579
+1446,Kolhapur,ladies finger,0,4150,4150
+1447,Kolhapur,lemon,0,8500,8500
+1448,Kolhapur,maize(corn.),0,1414,1414
+1449,Kolhapur,mango,0,4265,4265
+1450,Kolhapur,math (bhaji),0,10007,10007
+1451,Kolhapur,melon,0,2744,2744
+1452,Kolhapur,mosambi,0,6577,6577
+1453,Kolhapur,onion,2242,4057,4057
+1454,Kolhapur,orange,0,8775,8775
+1455,Kolhapur,papai,0,1800,1800
+1456,Kolhapur,pineapple,0,2500,2500
+1457,Kolhapur,pomegranate,0,9213,9213
+1458,Kolhapur,potato,0,1465,1465
+1459,Kolhapur,raddish,0,510,510
+1460,Kolhapur,shepu,0,5950,5950
+1461,Kolhapur,shevga,0,7358,7358
+1462,Kolhapur,small gourd,0,3300,3300
+1463,Kolhapur,snake gourd,0,1380,1380
+1464,Kolhapur,spinach,0,4200,4200
+1465,Kolhapur,squash gourd,0,4067,4067
+1466,Kolhapur,strawberi,0,2333,2333
+1467,Kolhapur,sweet potato,0,2192,2192
+1468,Kolhapur,tomato,0,3237,3237
+1469,Kolhapur,wal bhaji,0,3638,3638
+1470,Kolhapur,water melon,0,1200,1200
+1471,Kopargaon,bajri,1503,1747,1747
+1472,Kopargaon,chikoo,0,2925,2925
+1473,Kopargaon,gram,4122,4773,4773
+1474,Kopargaon,green gram,7911,8626,8626
+1475,Kopargaon,maize,1165,1466,1466
+1476,Kopargaon,onion,2184,2758,2758
+1477,Kopargaon,pigeon pea (tur),0,7113,7113
+1478,Kopargaon,sorgum(jawar),1775,1681,1681
+1479,Kopargaon,soybean,3289,3781,3781
+1480,Kopargaon,wheat(husked),1699,1800,1800
+1481,Koregaon,ghevda seed,5631,8143,8143
+1482,Koregaon,gram,3200,4729,4729
+1483,Koregaon,green gram,7800,7814,7814
+1484,Koregaon,onion,1950,2300,2300
+1485,Koregaon,potato,2067,1575,1575
+1486,Koregaon,sorgum(jawar),2133,2038,2038
+1487,Koregaon,wheat(husked),1767,1900,1900
+1488,Korpana,cotton,4050,4100,4100
+1489,Korpana,pigeon pea (tur),0,7400,7400
+1490,Korpana,soybean,3220,3685,3685
+1491,Kurdwadi-Modnimb,black gram,0,8689,8689
+1492,Kurdwadi-Modnimb,bor,0,2167,2167
+1493,Kurdwadi-Modnimb,gram,0,4745,4745
+1494,Kurdwadi-Modnimb,maize,0,1700,1700
+1495,Kurdwadi-Modnimb,onion,0,2706,2706
+1496,Kurdwadi-Modnimb,pigeon pea (tur),0,8570,8570
+1497,Kurdwadi-Modnimb,sorgum(jawar),0,2518,2518
+1498,Kurdwadi-Modnimb,wheat(husked),0,2542,2542
+1499,Kurdwadi,bajri,1541,1551,1551
+1500,Kurdwadi,black gram,3400,7241,7241
+1501,Kurdwadi,chillies(red),3551,7000,7000
+1502,Kurdwadi,gram,2765,14802,14802
+1503,Kurdwadi,green gram,5501,7651,7651
+1504,Kurdwadi,lemon,850,600,600
+1505,Kurdwadi,maize,1337,1644,1644
+1506,Kurdwadi,onion,1898,3575,3575
+1507,Kurdwadi,pigeon pea (tur),3825,8664,8664
+1508,Kurdwadi,sorgum(jawar),2764,2496,2496
+1509,Kurdwadi,tamarind,0,4000,4000
+1510,Kurdwadi,wheat(husked),1771,2029,2029
+1511,Lakhandur,paddy-unhusked,1867,1707,1707
+1512,Lakhani,paddy-unhusked,2725,2437,2437
+1513,Lasalgaon-Niphad,maize,0,1295,1295
+1514,Lasalgaon-Niphad,onion,0,2843,2843
+1515,Lasalgaon-Niphad,soybean,0,3516,3516
+1516,Lasalgaon-Niphad,wheat(husked),0,0,0
+1517,Lasalgaon-Vinchur,bajri,0,1670,1670
+1518,Lasalgaon-Vinchur,gram,0,4946,4946
+1519,Lasalgaon-Vinchur,maize,0,1515,1515
+1520,Lasalgaon-Vinchur,sorgum(jawar),0,1661,1661
+1521,Lasalgaon-Vinchur,soybean,0,3965,3965
+1522,Lasalgaon-Vinchur,wheat(husked),0,1885,1885
+1523,Lasalgaon,bajri,1615,1803,1803
+1524,Lasalgaon,black gram,5365,10006,10006
+1525,Lasalgaon,gram,3056,5449,5449
+1526,Lasalgaon,green gram,8304,9547,9547
+1527,Lasalgaon,ground nut pods (dry),4128,5715,5715
+1528,Lasalgaon,maize,1361,1575,1575
+1529,Lasalgaon,onion,1943,2391,2391
+1530,Lasalgaon,pigeon pea (tur),3901,8086,8086
+1531,Lasalgaon,rice(paddy-hus),1592,1691,1691
+1532,Lasalgaon,sorgum(jawar),2068,2100,2100
+1533,Lasalgaon,soybean,3507,3956,3956
+1534,Lasalgaon,sunflower,3368,5370,5370
+1535,Lasalgaon,wheat(husked),1995,2130,2130
+1536,Lasur Station,bajri,1600,1621,1621
+1537,Lasur Station,black gram,0,8013,8013
+1538,Lasur Station,gram,2729,4972,4972
+1539,Lasur Station,green gram,7878,9048,9048
+1540,Lasur Station,maize,1310,1491,1491
+1541,Lasur Station,onion,1917,2871,2871
+1542,Lasur Station,pigeon pea (tur),6036,8723,8723
+1543,Lasur Station,sorgum(jawar),1925,2198,2198
+1544,Lasur Station,soybean,3362,4151,4151
+1545,Lasur Station,thymol-lovage,0,11246,11246
+1546,Lasur Station,wheat(husked),2058,1988,1988
+1547,Latur-Murud,gram,0,4465,4465
+1548,Latur-Murud,maize,0,1486,1486
+1549,Latur-Murud,pigeon pea (tur),0,9320,9320
+1550,Latur-Murud,safflower,0,2500,2500
+1551,Latur-Murud,sorgum(jawar),0,1761,1761
+1552,Latur-Murud,soybean,0,3794,3794
+1553,Latur-Murud,wheat(husked),0,2501,2501
+1554,Latur,bajri,1592,1874,1874
+1555,Latur,black gram,6421,12325,12325
+1556,Latur,gram,3211,5128,5128
+1557,Latur,green gram,8210,9246,9246
+1558,Latur,maize,1252,1618,1618
+1559,Latur,pigeon pea (tur),5454,12641,12641
+1560,Latur,safflower,2831,2864,2864
+1561,Latur,sorgum(jawar),2365,2763,2763
+1562,Latur,soybean,3658,4036,4036
+1563,Latur,sunflower,3439,3968,3968
+1564,Latur,wheat(husked),2796,3452,3452
+1565,Lohara,soybean,0,3670,3670
+1566,Loha,black gram,5025,11600,11600
+1567,Loha,gram,2576,4050,4050
+1568,Loha,green gram,8451,9050,9050
+1569,Loha,pigeon pea (tur),4916,12321,12321
+1570,Loha,sorgum(jawar),1732,1853,1853
+1571,Loha,turmeric,6040,9067,9067
+1572,Loha,wheat(husked),1735,2101,2101
+1573,Lonand,bajri,1967,1901,1901
+1574,Lonand,gram,3275,4525,4525
+1575,Lonand,maize,1463,1488,1488
+1576,Lonand,onion,1960,3169,3169
+1577,Lonand,sorgum(jawar),2407,2433,2433
+1578,Lonand,wheat(husked),1902,2267,2267
+1579,Lonar,black gram,5625,11800,11800
+1580,Lonar,gram,2924,4828,4828
+1581,Lonar,green gram,8181,8934,8934
+1582,Lonar,maize,1150,1377,1377
+1583,Lonar,pigeon pea (tur),5025,9925,9925
+1584,Lonar,sorgum(jawar),1390,1404,1404
+1585,Lonar,soybean,3356,4138,4138
+1586,Lonar,wheat(husked),1525,1734,1734
+1587,Mahad,paddy-unhusked,0,1450,1450
+1588,Mahagaon,cotton,4000,4245,4245
+1589,Mahagaon,sorgum(jawar),0,1633,1633
+1590,Mahagaon,wheat(husked),0,1700,1700
+1591,Mahur,cotton,3962,4137,4137
+1592,Majalgaon,bajri,1707,2168,2168
+1593,Majalgaon,cotton,4103,4349,4349
+1594,Majalgaon,gram,2888,4759,4759
+1595,Majalgaon,green gram,7389,8696,8696
+1596,Majalgaon,pigeon pea (tur),4782,9615,9615
+1597,Majalgaon,sesamum,11088,9772,9772
+1598,Majalgaon,sorgum(jawar),2592,2576,2576
+1599,Majalgaon,soybean,3353,3857,3857
+1600,Majalgaon,wheat(husked),1634,2190,2190
+1601,Malegaon (Washim),gram,0,4629,4629
+1602,Malegaon (Washim),pigeon pea (tur),0,9521,9521
+1603,Malegaon (Washim),soybean,3299,3935,3935
+1604,Malegaon,bajri,1598,1767,1767
+1605,Malegaon,castor seed,3391,3476,3476
+1606,Malegaon,gram,3364,5160,5160
+1607,Malegaon,green gram,8020,8716,8716
+1608,Malegaon,ground nut pods (dry),4391,6601,6601
+1609,Malegaon,horse gram,3890,3501,3501
+1610,Malegaon,maize,1519,1550,1550
+1611,Malegaon,matki,6501,8076,8076
+1612,Malegaon,onion,1628,2487,2487
+1613,Malegaon,pigeon pea (tur),4123,9203,9203
+1614,Malegaon,sorgum(jawar),2372,2777,2777
+1615,Malegaon,soybean,3423,3777,3777
+1616,Malegaon,wheat(husked),1714,1970,1970
+1617,Malkapur,bajri,1500,1441,1441
+1618,Malkapur,black gram,5468,12021,12021
+1619,Malkapur,chillies(red),7600,11031,11031
+1620,Malkapur,gram,2709,4995,4995
+1621,Malkapur,green gram,7803,9149,9149
+1622,Malkapur,maize,1137,1590,1590
+1623,Malkapur,onion,1925,2653,2653
+1624,Malkapur,pigeon pea (tur),5133,10311,10311
+1625,Malkapur,sesamum,8900,8750,8750
+1626,Malkapur,sorgum(jawar),1498,1464,1464
+1627,Malkapur,soybean,3331,3919,3919
+1628,Malkapur,wheat(husked),1541,1776,1776
+1629,Manchar,beet root,3550,1786,1786
+1630,Manchar,bitter gourd,2067,2900,2900
+1631,Manchar,bottle gourd,1150,1575,1575
+1632,Manchar,brinjal,2600,2133,2133
+1633,Manchar,cabbage,375,1028,1028
+1634,Manchar,capsicum,3000,2450,2450
+1635,Manchar,carrot,1567,3000,3000
+1636,Manchar,chavli (shenga ),2500,3050,3050
+1637,Manchar,cluster bean,3900,6655,6655
+1638,Manchar,coriander  ,2523,3572,3572
+1639,Manchar,cucumber,2200,2550,2550
+1640,Manchar,farshi,4250,4053,4053
+1641,Manchar,flower,1560,1443,1443
+1642,Manchar,ghevda,4300,3605,3605
+1643,Manchar,green chilli,4000,4828,4828
+1644,Manchar,ground nut pods (dry),0,3650,3650
+1645,Manchar,kanda pat,677,643,643
+1646,Manchar,ladies finger,3467,3950,3950
+1647,Manchar,maize(corn.),900,1654,1654
+1648,Manchar,methi (bhaji),2053,2405,2405
+1649,Manchar,onion,2112,4049,4049
+1650,Manchar,pavtta,4510,4200,4200
+1651,Manchar,shepu,996,1504,1504
+1652,Manchar,shevga,4000,4305,4305
+1653,Manchar,small gourd,0,2700,2700
+1654,Manchar,squash gourd,0,680,680
+1655,Manchar,wal papdi,4500,3275,3275
+1656,Manchar,walvad,3750,4000,4000
+1657,Mandhal,chillies(red),4444,7803,7803
+1658,Mandhal,coriander (dry),0,6313,6313
+1659,Mandhal,cotton,0,4150,4150
+1660,Mandhal,gram,2714,4447,4447
+1661,Mandhal,green gram,0,6071,6071
+1662,Mandhal,linseed,0,4897,4897
+1663,Mandhal,paddy-unhusked,2059,2090,2090
+1664,Mandhal,pigeon pea (tur),0,6550,6550
+1665,Mandhal,soybean,3324,3827,3827
+1666,Mandhal,wheat(husked),1501,1524,1524
+1667,Mangalwedha,bajri,1534,1640,1640
+1668,Mangalwedha,bitter gourd,3468,4967,4967
+1669,Mangalwedha,brinjal,6515,4442,4442
+1670,Mangalwedha,cucumber,3236,3384,3384
+1671,Mangalwedha,gram,3342,4995,4995
+1672,Mangalwedha,green chilli,3376,4411,4411
+1673,Mangalwedha,green gram,6700,8000,8000
+1674,Mangalwedha,horse gram,2102,2267,2267
+1675,Mangalwedha,ladies finger,4585,4632,4632
+1676,Mangalwedha,maize,1457,1679,1679
+1677,Mangalwedha,matki,6000,8700,8700
+1678,Mangalwedha,pigeon pea (tur),4000,9050,9050
+1679,Mangalwedha,ridge gourd,4229,4364,4364
+1680,Mangalwedha,sorgum(jawar),2575,2559,2559
+1681,Mangalwedha,tomato,2200,3065,3065
+1682,Mangalwedha,wheat(husked),2034,2432,2432
+1683,Mangalwedha,wheat(unhusked),2827,3550,3550
+1684,Mangaon(Bhadav),nachani,2983,3375,3375
+1685,Mangaon(Bhadav),nagali,2910,3214,3214
+1686,Mangaon(Bhadav),paddy-unhusked,1523,1545,1545
+1687,Mangaon(Bhadav),rice(paddy-hus),3633,3539,3539
+1688,Mangrulpeer,black gram,5071,11618,11618
+1689,Mangrulpeer,gram,2668,5029,5029
+1690,Mangrulpeer,green gram,7927,8895,8895
+1691,Mangrulpeer,pigeon pea (tur),4860,11537,11537
+1692,Mangrulpeer,sorgum(jawar),1504,1577,1577
+1693,Mangrulpeer,soybean,3339,4001,4001
+1694,Mangrulpeer,wheat(husked),1551,1860,1860
+1695,Manmad,bajri,1573,1653,1653
+1696,Manmad,gram,2842,5013,5013
+1697,Manmad,green gram,8232,9242,9242
+1698,Manmad,maize,1340,1537,1537
+1699,Manmad,onion,1768,2396,2396
+1700,Manmad,sorgum(jawar),0,0,0
+1701,Manmad,wheat(husked),1748,1766,1766
+1702,Manora,gram,3243,4650,4650
+1703,Manora,green gram,0,5575,5575
+1704,Manora,pigeon pea (tur),5130,11150,11150
+1705,Manora,soybean,3438,4100,4100
+1706,Manora,wheat(husked),1650,1650,1650
+1707,Mantha,bajri,1525,1619,1619
+1708,Mantha,black gram,4635,8225,8225
+1709,Mantha,cotton,3971,4280,4280
+1710,Mantha,gram,2550,5000,5000
+1711,Mantha,green gram,7197,7929,7929
+1712,Mantha,pigeon pea (tur),4650,8588,8588
+1713,Mantha,safflower,2305,2550,2550
+1714,Mantha,sorgum(jawar),2156,1790,1790
+1715,Mantha,soybean,3284,3813,3813
+1716,Mantha,wheat(husked),1647,2208,2208
+1717,Manwat,bajri,0,1735,1735
+1718,Manwat,gram,0,4794,4794
+1719,Manwat,green gram,0,9039,9039
+1720,Manwat,pigeon pea (tur),0,9851,9851
+1721,Manwat,sorgum(jawar),0,1746,1746
+1722,Manwat,soybean,0,3785,3785
+1723,Manwat,wheat(husked),0,1883,1883
+1724,Maregaon,cotton,3949,4286,4286
+1725,Mauda,wheat(husked),0,0,0
+1726,Mehkar,black gram,5214,11136,11136
+1727,Mehkar,gram,4244,5126,5126
+1728,Mehkar,green gram,8365,8818,8818
+1729,Mehkar,maize,1020,1449,1449
+1730,Mehkar,pigeon pea (tur),4885,10242,10242
+1731,Mehkar,sorgum(jawar),1685,1427,1427
+1732,Mehkar,soybean,3394,3941,3941
+1733,Mehkar,wheat(husked),1601,1921,1921
+1734,Mohol,gram,2480,4508,4508
+1735,Mohol,maize,1462,1750,1750
+1736,Mohol,pigeon pea (tur),4368,7978,7978
+1737,Mohol,sorgum(jawar),2409,2564,2564
+1738,Mohol,wheat(husked),2019,2004,2004
+1739,Morshi,chillies(red),0,0,0
+1740,Morshi,gram,2500,4856,4856
+1741,Morshi,pigeon pea (tur),4783,10500,10500
+1742,Morshi,sorgum(jawar),1500,1469,1469
+1743,Morshi,soybean,3232,3683,3683
+1744,Morshi,wheat(husked),1528,1644,1644
+1745,Mukhed,black gram,0,8580,8580
+1746,Mukhed,green gram,0,8450,8450
+1747,Mukhed,sorgum(jawar),0,2717,2717
+1748,Mukhed,soybean,0,3762,3762
+1749,Mul,paddy-unhusked,2584,2368,2368
+1750,Mumbai-Fruit Market,apple,0,0,0
+1751,Mumbai-Fruit Market,chikoo,0,0,0
+1752,Mumbai-Fruit Market,custard apple,0,0,0
+1753,Mumbai-Fruit Market,guava,0,0,0
+1754,Mumbai-Fruit Market,melon,0,0,0
+1755,Mumbai-Fruit Market,mosambi,0,0,0
+1756,Mumbai-Fruit Market,orange,0,0,0
+1757,Mumbai-Fruit Market,papai,0,0,0
+1758,Mumbai-Fruit Market,pineapple,0,0,0
+1759,Mumbai-Fruit Market,pomegranate,0,0,0
+1760,Mumbai-Fruit Market,water melon,0,0,0
+1761,Mumbai-Onion And Potato Mkt,garlic,0,0,0
+1762,Mumbai-Onion And Potato Mkt,onion,0,0,0
+1763,Mumbai-Onion And Potato Mkt,potato,0,0,0
+1764,Mumbai,apple,6673,8231,8231
+1765,Mumbai,arvi,3000,3042,3042
+1766,Mumbai,beet root,0,1300,1300
+1767,Mumbai,betelnuts,36737,34952,34952
+1768,Mumbai,bitter gourd,3630,4043,4043
+1769,Mumbai,bottle gourd,1630,1687,1687
+1770,Mumbai,brinjal,3080,3492,3492
+1771,Mumbai,cabbage,1224,1508,1508
+1772,Mumbai,capsicum,3768,3383,3383
+1773,Mumbai,cardamom,124000,156473,156473
+1774,Mumbai,carrot,2560,2413,2413
+1775,Mumbai,cashewnuts,94526,119048,119048
+1776,Mumbai,chikoo,1833,1717,1717
+1777,Mumbai,chillies(red),14156,17333,17333
+1778,Mumbai,cluster bean,0,3650,3650
+1779,Mumbai,coconut,2563,2567,2567
+1780,Mumbai,coriander (dry),21444,24667,24667
+1781,Mumbai,cowpea,7000,8154,8154
+1782,Mumbai,cucumber,2474,1821,1821
+1783,Mumbai,cummin,18852,24762,24762
+1784,Mumbai,curry leaves,2040,2388,2388
+1785,Mumbai,custard apple,4500,8817,8817
+1786,Mumbai,elephant root,2008,3777,3777
+1787,Mumbai,fennel,19215,20200,20200
+1788,Mumbai,fenugreek,10185,11880,11880
+1789,Mumbai,flower,1432,1458,1458
+1790,Mumbai,french bean,2200,3000,3000
+1791,Mumbai,garlic,5792,9828,9828
+1792,Mumbai,ginger (dry),5064,5723,5723
+1793,Mumbai,grapes,4068,8647,8647
+1794,Mumbai,green chilli,4096,4823,4823
+1795,Mumbai,green peas (dry),6000,5100,5100
+1796,Mumbai,green-peas,9260,9300,9300
+1797,Mumbai,guava,2724,2992,2992
+1798,Mumbai,horse gram,3975,3600,3600
+1799,Mumbai,jaggery,5550,3933,3933
+1800,Mumbai,ladies finger,4585,3964,3964
+1801,Mumbai,mango,0,33833,33833
+1802,Mumbai,melon,2371,2375,2375
+1803,Mumbai,mosambi,2754,3088,3088
+1804,Mumbai,onion,2425,3470,3470
+1805,Mumbai,orange,2636,3081,3081
+1806,Mumbai,papai,1852,1892,1892
+1807,Mumbai,pineapple,2338,2533,2533
+1808,Mumbai,pomegranate,6508,14040,14040
+1809,Mumbai,potato,0,1520,1520
+1810,Mumbai,rice(paddy-hus),9189,8351,8351
+1811,Mumbai,ridge gourd,4062,3900,3900
+1812,Mumbai,shevga,6342,5667,5667
+1813,Mumbai,small gourd,3816,2878,2878
+1814,Mumbai,snake gourd,1752,2016,2016
+1815,Mumbai,spilt gerrn gram,9247,11158,11158
+1816,Mumbai,spilt pigeon pea,7500,16981,16981
+1817,Mumbai,split black gram,8332,15852,15852
+1818,Mumbai,split gram,4300,7222,7222
+1819,Mumbai,split lentil,6707,8490,8490
+1820,Mumbai,squash gourd,1104,2706,2706
+1821,Mumbai,sugar,3315,3022,3022
+1822,Mumbai,sweet potato,1863,1668,1668
+1823,Mumbai,tamarind,10233,11673,11673
+1824,Mumbai,tomato,3256,2800,2800
+1825,Mumbai,turmeric,14800,18333,18333
+1826,Mumbai,water melon,1196,1508,1508
+1827,Murbad,bitter gourd,3431,6073,6073
+1828,Murbad,bottle gourd,1633,4500,4500
+1829,Murbad,brinjal,3262,3717,3717
+1830,Murbad,cabbage,0,2935,2935
+1831,Murbad,capsicum,4413,6050,6050
+1832,Murbad,ghevda,0,5520,5520
+1833,Murbad,ghosali(bhaji),3164,5640,5640
+1834,Murbad,ladies finger,4069,4630,4630
+1835,Murbad,paddy-unhusked,1925,1950,1950
+1836,Murbad,tomato,3629,3763,3763
+1837,Murtizapur,black gram,4820,10504,10504
+1838,Murtizapur,gram,3012,5143,5143
+1839,Murtizapur,green gram,7893,8932,8932
+1840,Murtizapur,pigeon pea (tur),5191,10351,10351
+1841,Murtizapur,soybean,3330,3839,3839
+1842,Murtizapur,wheat(husked),1508,1570,1570
+1843,Murud,paddy-unhusked,0,0,0
+1844,Murud,rice(paddy-hus),0,3074,3074
+1845,Murum,bajri,2809,1569,1569
+1846,Murum,black gram,6031,11887,11887
+1847,Murum,gram,2700,4787,4787
+1848,Murum,green gram,8005,8139,8139
+1849,Murum,maize,1400,1786,1786
+1850,Murum,pigeon pea (tur),5306,11150,11150
+1851,Murum,sorgum(jawar),2137,2352,2352
+1852,Murum,soybean,3325,3970,3970
+1853,Murum,wheat(husked),1667,2584,2584
+1854,Murum,wheat(unhusked),3951,3599,3599
+1855,Nagbhid,paddy-unhusked,2517,2247,2247
+1856,Nagpur,apple,7096,12831,12831
+1857,Nagpur,banana,550,740,740
+1858,Nagpur,beet root,1504,1300,1300
+1859,Nagpur,bitter gourd,2938,2948,2948
+1860,Nagpur,bor,765,800,800
+1861,Nagpur,bottle gourd,992,1225,1225
+1862,Nagpur,brinjal,1362,1675,1675
+1863,Nagpur,cabbage,1169,1144,1144
+1864,Nagpur,capsicum,3338,2585,2585
+1865,Nagpur,carrot,2467,1985,1985
+1866,Nagpur,chavli (pala),1427,1309,1309
+1867,Nagpur,chavli (shenga ),1925,2500,2500
+1868,Nagpur,chikoo,2271,2900,2900
+1869,Nagpur,chillies(red),8500,10000,10000
+1870,Nagpur,cluster bean,2127,1904,1904
+1871,Nagpur,coriander  ,3850,5635,5635
+1872,Nagpur,coriander (dry),10250,10000,10000
+1873,Nagpur,cucumber,1977,1715,1715
+1874,Nagpur,dhemse,2046,2204,2204
+1875,Nagpur,flower,2042,1877,1877
+1876,Nagpur,garlic,6668,14125,14125
+1877,Nagpur,ghosali(bhaji),0,971,971
+1878,Nagpur,ginger (dry),0,5229,5229
+1879,Nagpur,ginger (fresh),6560,5020,5020
+1880,Nagpur,gram,2947,4827,4827
+1881,Nagpur,grapes,3563,6069,6069
+1882,Nagpur,green chilli,3000,2977,2977
+1883,Nagpur,green gram,5400,6800,6800
+1884,Nagpur,green-peas,3142,2500,2500
+1885,Nagpur,ground nut pods (dry),3827,4316,4316
+1886,Nagpur,jack fruit,0,1700,1700
+1887,Nagpur,ladies finger,2350,2696,2696
+1888,Nagpur,lemon,140,280,280
+1889,Nagpur,linseed,0,4550,4550
+1890,Nagpur,maize,0,1412,1412
+1891,Nagpur,mango(raw),0,3257,3257
+1892,Nagpur,mango,0,3416,3416
+1893,Nagpur,math (bhaji),3672,3854,3854
+1894,Nagpur,melon,0,790,790
+1895,Nagpur,mosambi,2240,2950,2950
+1896,Nagpur,onion,1874,2515,2515
+1897,Nagpur,orange,1875,3548,3548
+1898,Nagpur,paddy-unhusked,2098,2085,2085
+1899,Nagpur,papai,1570,1250,1250
+1900,Nagpur,parwar,1665,1630,1630
+1901,Nagpur,pigeon pea (tur),4953,9600,9600
+1902,Nagpur,pineapple,3090,2980,2980
+1903,Nagpur,pomegranate,4585,6828,6828
+1904,Nagpur,potato,2580,1229,1229
+1905,Nagpur,pumpkin,1096,1162,1162
+1906,Nagpur,raddish,1119,1224,1224
+1907,Nagpur,rice(paddy-hus),3445,2997,2997
+1908,Nagpur,small gourd,1936,1652,1652
+1909,Nagpur,sorgum(jawar),2300,2000,2000
+1910,Nagpur,soybean,3433,3909,3909
+1911,Nagpur,spinach,2000,2342,2342
+1912,Nagpur,tomato,1900,2446,2446
+1913,Nagpur,wal bhaji,2723,3638,3638
+1914,Nagpur,wheat(husked),2041,2144,2144
+1915,Naigaon,black gram,5200,11730,11730
+1916,Naigaon,cotton,4050,4250,4250
+1917,Naigaon,gram,2400,4150,4150
+1918,Naigaon,green gram,7225,8796,8796
+1919,Naigaon,pigeon pea (tur),4700,9833,9833
+1920,Naigaon,sorgum(jawar),1433,1325,1325
+1921,Naigaon,soybean,3396,3821,3821
+1922,Nampur,bajri,0,0,0
+1923,Nampur,gram,0,0,0
+1924,Nampur,ground nut pods (dry),0,0,0
+1925,Nampur,maize,0,0,0
+1926,Nampur,onion,0,0,0
+1927,Nampur,pigeon pea (tur),0,0,0
+1928,Nampur,pomegranate,0,0,0
+1929,Nampur,soybean,0,0,0
+1930,Nampur,wheat(husked),0,0,0
+1931,Nanded,gram,2600,4401,4401
+1932,Nanded,green gram,7000,8501,8501
+1933,Nanded,ground nut pods (dry),0,5611,5611
+1934,Nanded,pigeon pea (tur),4600,8456,8456
+1935,Nanded,sorgum(jawar),1362,1898,1898
+1936,Nanded,soybean,3356,3900,3900
+1937,Nanded,turmeric,8173,10622,10622
+1938,Nanded,wheat(husked),1583,2151,2151
+1939,Nandgaon Khandeshwar,black gram,0,10527,10527
+1940,Nandgaon Khandeshwar,chino,0,4621,4621
+1941,Nandgaon Khandeshwar,gram,0,0,0
+1942,Nandgaon Khandeshwar,green gram,0,9127,9127
+1943,Nandgaon Khandeshwar,pigeon pea (tur),0,9441,9441
+1944,Nandgaon Khandeshwar,soybean,3250,3749,3749
+1945,Nandgaon Khandeshwar,wheat(husked),0,1501,1501
+1946,Nandgaon,bajri,1610,1720,1720
+1947,Nandgaon,gram,3384,4768,4768
+1948,Nandgaon,green gram,8667,8893,8893
+1949,Nandgaon,ground nut pods (dry),5118,9925,9925
+1950,Nandgaon,maize,1330,1995,1995
+1951,Nandgaon,onion,1787,2091,2091
+1952,Nandgaon,pigeon pea (tur),0,8236,8236
+1953,Nandgaon,sorgum(jawar),1800,1647,1647
+1954,Nandgaon,soybean,3430,6141,6141
+1955,Nandgaon,wheat(husked),1729,3388,3388
+1956,Nandura,bajri,1420,1530,1530
+1957,Nandura,black gram,5750,11417,11417
+1958,Nandura,gram,2679,4782,4782
+1959,Nandura,green gram,7613,8628,8628
+1960,Nandura,maize,1370,1593,1593
+1961,Nandura,onion,0,0,0
+1962,Nandura,pigeon pea (tur),5024,11015,11015
+1963,Nandura,sesamum,9588,9350,9350
+1964,Nandura,sorgum(jawar),1466,1473,1473
+1965,Nandura,soybean,3342,3832,3832
+1966,Nandura,wheat(husked),1538,1739,1739
+1967,Nandurbar,bajri,1534,1639,1639
+1968,Nandurbar,black gram,5046,9000,9000
+1969,Nandurbar,chillies(red),2710,4000,4000
+1970,Nandurbar,cluster bean,5307,4601,4601
+1971,Nandurbar,cowpea,0,6000,6000
+1972,Nandurbar,gram,2742,4843,4843
+1973,Nandurbar,green gram,7174,8623,8623
+1974,Nandurbar,ground nut pods (dry),3700,5565,5565
+1975,Nandurbar,horse gram,0,6911,6911
+1976,Nandurbar,maize,1523,1637,1637
+1977,Nandurbar,matki,0,7189,7189
+1978,Nandurbar,pigeon pea (tur),4410,8560,8560
+1979,Nandurbar,rice(paddy-hus),3500,3500,3500
+1980,Nandurbar,shepa,6150,6800,6800
+1981,Nandurbar,sorgum(jawar),1747,2189,2189
+1982,Nandurbar,soybean,3375,3696,3696
+1983,Nandurbar,sunflower,4016,5804,5804
+1984,Nandurbar,thymol-lovage,12832,14442,14442
+1985,Nandurbar,wheat(husked),1797,2802,2802
+1986,Narkhed,cotton,4053,4396,4396
+1987,Narkhed,orange,11158,690,690
+1988,Nashik-Devlali,chavli (pala),0,0,0
+1989,Nashik-Devlali,coriander  ,0,0,0
+1990,Nashik-Devlali,kanda pat,0,0,0
+1991,Nashik-Devlali,methi (bhaji),0,0,0
+1992,Nashik-Devlali,raddish,0,0,0
+1993,Nashik-Devlali,shepu,0,0,0
+1994,Nashik-Devlali,spinach,0,0,0
+1995,Nashik-Devlali,tandulja,0,0,0
+1996,Nashik,apple,10889,12000,12000
+1997,Nashik,bitter gourd,4020,4887,4887
+1998,Nashik,bor,1825,1842,1842
+1999,Nashik,bottle gourd,2118,2067,2067
+2000,Nashik,brinjal,5389,4934,4934
+2001,Nashik,cabbage,1413,2035,2035
+2002,Nashik,capsicum,5810,5406,5406
+2003,Nashik,carrot,5283,3700,3700
+2004,Nashik,cluster bean,5353,5425,5425
+2005,Nashik,coriander  ,6361,4100,4100
+2006,Nashik,cucumber,3075,9563,9563
+2007,Nashik,flower,1777,1964,1964
+2008,Nashik,garlic,5533,12363,12363
+2009,Nashik,ghevda,4691,4345,4345
+2010,Nashik,ghosali(bhaji),0,2690,2690
+2011,Nashik,ginger (fresh),4392,5300,5300
+2012,Nashik,green chilli,2550,5529,5529
+2013,Nashik,green-peas,7789,5500,5500
+2014,Nashik,ground nut pods (dry),5226,5356,5356
+2015,Nashik,guava,1756,0,0
+2016,Nashik,kanda pat,3091,2450,2450
+2017,Nashik,kharbuj,0,0,0
+2018,Nashik,ladies finger,4092,4119,4119
+2019,Nashik,lemon,3041,2700,2700
+2020,Nashik,melon,0,1625,1625
+2021,Nashik,methi (bhaji),3282,2571,2571
+2022,Nashik,mint,457,333,333
+2023,Nashik,mosambi,2563,4150,4150
+2024,Nashik,onion,1838,2578,2578
+2025,Nashik,orange,3000,2000,2000
+2026,Nashik,papai,0,1800,1800
+2027,Nashik,pomegranate,6620,7393,7393
+2028,Nashik,potato,0,1470,1470
+2029,Nashik,raddish,2006,351,351
+2030,Nashik,shahale ,2325,2700,2700
+2031,Nashik,shepu,1365,1325,1325
+2032,Nashik,spinach,582,460,460
+2033,Nashik,squash gourd,2633,5303,5303
+2034,Nashik,tomato,2281,3158,3158
+2035,Nashik,wal papdi,3945,2525,2525
+2036,Navapur,brinjal,0,1000,1000
+2037,Navapur,cabbage,0,850,850
+2038,Navapur,coriander  ,0,1000,1000
+2039,Navapur,flower,0,1626,1626
+2040,Navapur,gram,0,5350,5350
+2041,Navapur,green chilli,0,2000,2000
+2042,Navapur,maize,0,1409,1409
+2043,Navapur,onion,0,1938,1938
+2044,Navapur,paddy-unhusked,1300,1217,1217
+2045,Navapur,pigeon pea (tur),0,8510,8510
+2046,Navapur,rice(paddy-hus),0,1720,1720
+2047,Navapur,sorgum(jawar),1500,1336,1336
+2048,Navapur,soybean,0,3681,3681
+2049,Navapur,tomato,0,2563,2563
+2050,Navapur,wal papdi,0,2000,2000
+2051,Navapur,wheat(husked),0,1530,1530
+2052,Ner Parasopant,black gram,4500,9878,9878
+2053,Ner Parasopant,gram,2569,4359,4359
+2054,Ner Parasopant,green gram,6180,9153,9153
+2055,Ner Parasopant,pigeon pea (tur),4893,8951,8951
+2056,Ner Parasopant,soybean,3449,3904,3904
+2057,Ner Parasopant,wheat(husked),1575,1700,1700
+2058,Newasa-Ghodegaon,onion,2142,3769,3769
+2059,Newasa,bajri,1443,1419,1419
+2060,Newasa,gram,3175,3620,3620
+2061,Newasa,maize,1310,1417,1417
+2062,Newasa,pigeon pea (tur),0,7083,7083
+2063,Newasa,sorgum(jawar),1550,1800,1800
+2064,Newasa,tamarind,0,1300,1300
+2065,Newasa,wheat(husked),1614,1593,1593
+2066,Nilanga,black gram,5413,11500,11500
+2067,Nilanga,gram,3400,4820,4820
+2068,Nilanga,green gram,6697,8000,8000
+2069,Nilanga,pigeon pea (tur),0,15466,15466
+2070,Nilanga,sorgum(jawar),1141,1496,1496
+2071,Nilanga,soybean,3508,3827,3827
+2072,Nilanga,wheat(husked),1511,1783,1783
+2073,Nira-Saswad,bajri,0,2110,2110
+2074,Nira-Saswad,ghevda seed,0,6650,6650
+2075,Nira-Saswad,gram,0,6000,6000
+2076,Nira-Saswad,maize,0,1592,1592
+2077,Nira-Saswad,pigeon pea (tur),0,8301,8301
+2078,Nira-Saswad,rice(paddy-hus),0,3367,3367
+2079,Nira-Saswad,sorgum(jawar),0,2512,2512
+2080,Nira-Saswad,wheat(husked),0,2240,2240
+2081,Nira,bajri,0,2100,2100
+2082,Nira,jaggery,3650,3668,3668
+2083,Nira,rice(paddy-hus),0,3600,3600
+2084,Nira,sorgum(jawar),0,2559,2559
+2085,Nira,wheat(husked),0,2200,2200
+2086,Osmanabad,bitter gourd,3200,3750,3750
+2087,Osmanabad,black gram,5067,0,0
+2088,Osmanabad,bor,1431,1567,1567
+2089,Osmanabad,brinjal,3686,3603,3603
+2090,Osmanabad,cabbage,1158,1580,1580
+2091,Osmanabad,capsicum,3173,3189,3189
+2092,Osmanabad,carrot,1661,2054,2054
+2093,Osmanabad,chikoo,2386,2787,2787
+2094,Osmanabad,cluster bean,4000,3654,3654
+2095,Osmanabad,cucumber,1931,1900,1900
+2096,Osmanabad,flower,2550,3885,3885
+2097,Osmanabad,ghevda,2729,3000,3000
+2098,Osmanabad,ginger (fresh),4000,4600,4600
+2099,Osmanabad,gram,0,4550,4550
+2100,Osmanabad,green chilli,3773,4650,4650
+2101,Osmanabad,green gram,5900,7410,7410
+2102,Osmanabad,ground nut pods (dry),3950,5115,5115
+2103,Osmanabad,kharbuj,0,2050,2050
+2104,Osmanabad,ladies finger,4125,4500,4500
+2105,Osmanabad,lemon,1814,5000,5000
+2106,Osmanabad,maize,0,1245,1245
+2107,Osmanabad,onion,1521,2782,2782
+2108,Osmanabad,pigeon pea (tur),5451,10300,10300
+2109,Osmanabad,potato,0,1774,1774
+2110,Osmanabad,ridge gourd,3600,4250,4250
+2111,Osmanabad,shevga,0,7750,7750
+2112,Osmanabad,sorgum(jawar),2413,2291,2291
+2113,Osmanabad,soybean,3350,3819,3819
+2114,Osmanabad,sweet potato,0,3200,3200
+2115,Osmanabad,tomato,2213,2767,2767
+2116,Osmanabad,wheat(husked),1657,3914,3914
+2117,Pachora,bajri,0,1499,1499
+2118,Pachora,gram,0,4592,4592
+2119,Pachora,green gram,0,7435,7435
+2120,Pachora,maize,0,1415,1415
+2121,Pachora,pigeon pea (tur),0,8000,8000
+2122,Pachora,sorgum(jawar),0,1400,1400
+2123,Pachora,soybean,0,3711,3711
+2124,Pachora,sunflower,0,3848,3848
+2125,Pachora,wheat(husked),0,1588,1588
+2126,Paithan,bajri,1524,1581,1581
+2127,Paithan,gram,2658,4342,4342
+2128,Paithan,green gram,0,6601,6601
+2129,Paithan,maize,0,1700,1700
+2130,Paithan,onion,0,0,0
+2131,Paithan,pigeon pea (tur),0,9094,9094
+2132,Paithan,sorgum(jawar),2138,1794,1794
+2133,Paithan,soybean,5302,3741,3741
+2134,Paithan,wheat(husked),3485,2029,2029
+2135,Palam,pigeon pea (tur),0,0,0
+2136,Palam,soybean,0,3551,3551
+2137,Palghar(Bevur),onion,0,1733,1733
+2138,Palghar(Bevur),potato,1500,1671,1671
+2139,Palghar(Bevur),rice(paddy-hus),2902,3387,3387
+2140,Palghar(Bevur),wheat(husked),1971,2369,2369
+2141,Palus,bitter gourd,0,3375,3375
+2142,Palus,brinjal,0,3000,3000
+2143,Palus,cabbage,0,0,0
+2144,Palus,capsicum,0,0,0
+2145,Palus,cucumber,0,0,0
+2146,Palus,flower,0,2000,2000
+2147,Palus,ginger (fresh),0,4000,4000
+2148,Palus,ladies finger,0,6000,6000
+2149,Palus,squash gourd,0,0,0
+2150,Palus,tomato,0,1450,1450
+2151,Pandharkawada,cotton,4002,4150,4150
+2152,Pandharkawada,gram,2400,3500,3500
+2153,Pandharkawada,ground nut pods (dry),0,5050,5050
+2154,Pandharkawada,pigeon pea (tur),4376,8116,8116
+2155,Pandharkawada,soybean,3209,3600,3600
+2156,Pandharpur,bajri,1313,1384,1384
+2157,Pandharpur,banana,1344,921,921
+2158,Pandharpur,brinjal,4143,3241,3241
+2159,Pandharpur,cabbage,1029,1486,1486
+2160,Pandharpur,capsicum,3525,4000,4000
+2161,Pandharpur,chikoo,4360,2465,2465
+2162,Pandharpur,coriander  ,3750,1667,1667
+2163,Pandharpur,cucumber,2370,2009,2009
+2164,Pandharpur,gram,0,4675,4675
+2165,Pandharpur,green chilli,4129,6213,6213
+2166,Pandharpur,ladies finger,4100,4000,4000
+2167,Pandharpur,maize,1386,1532,1532
+2168,Pandharpur,math (bhaji),2083,1500,1500
+2169,Pandharpur,onion,2077,3664,3664
+2170,Pandharpur,pomegranate,7277,9246,9246
+2171,Pandharpur,potato,0,900,900
+2172,Pandharpur,sorgum(jawar),2035,2073,2073
+2173,Pandharpur,tomato,1861,2977,2977
+2174,Pandharpur,wheat(husked),1631,1950,1950
+2175,Panvel,bitter gourd,4357,4240,4240
+2176,Panvel,bottle gourd,1600,2300,2300
+2177,Panvel,brinjal,3367,2500,2500
+2178,Panvel,cabbage,933,1250,1250
+2179,Panvel,carrot,0,0,0
+2180,Panvel,cluster bean,0,0,0
+2181,Panvel,cucumber,1957,2300,2300
+2182,Panvel,flower,1800,2000,2000
+2183,Panvel,ghevda,0,0,0
+2184,Panvel,ghosali(bhaji),1957,2700,2700
+2185,Panvel,ladies finger,0,3643,3643
+2186,Panvel,ridge gourd,4200,4283,4283
+2187,Panvel,snake gourd,2800,2217,2217
+2188,Panvel,tomato,2300,2220,2220
+2189,Paranda,onion,0,1803,1803
+2190,Paranda,pigeon pea (tur),0,9069,9069
+2191,Paranda,sorgum(jawar),0,2760,2760
+2192,Parbhani,cotton,4051,4500,4500
+2193,Parbhani,gram,2508,5215,5215
+2194,Parbhani,green gram,7735,8757,8757
+2195,Parbhani,pigeon pea (tur),4719,10050,10050
+2196,Parbhani,sorgum(jawar),1700,1768,1768
+2197,Parbhani,soybean,4309,3800,3800
+2198,Parbhani,wheat(husked),1576,1850,1850
+2199,Parli-Vaijnath,bajri,1746,1724,1724
+2200,Parli-Vaijnath,gram,2392,5200,5200
+2201,Parli-Vaijnath,green gram,7317,8566,8566
+2202,Parli-Vaijnath,ground nut pods (dry),3538,4600,4600
+2203,Parli-Vaijnath,pigeon pea (tur),4490,8975,8975
+2204,Parli-Vaijnath,safflower,2100,2811,2811
+2205,Parli-Vaijnath,sorgum(jawar),1778,1912,1912
+2206,Parli-Vaijnath,soybean,3443,3898,3898
+2207,Parli-Vaijnath,sunflower,2869,3500,3500
+2208,Parli-Vaijnath,wheat(husked),1450,1660,1660
+2209,Parner,onion,2081,3083,3083
+2210,Parola,bajri,0,1476,1476
+2211,Parola,black gram,0,0,0
+2212,Parola,gram,0,3693,3693
+2213,Parola,green gram,0,0,0
+2214,Parola,maize,0,1379,1379
+2215,Parola,pigeon pea (tur),0,7535,7535
+2216,Parola,sorgum(jawar),0,1331,1331
+2217,Parola,wheat(husked),0,1537,1537
+2218,Parshiwani,cotton,3950,4318,4318
+2219,Parshiwani,pigeon pea (tur),0,8500,8500
+2220,Partur,bajri,1461,1601,1601
+2221,Partur,black gram,4512,9590,9590
+2222,Partur,cotton,4046,4373,4373
+2223,Partur,gram,2613,4491,4491
+2224,Partur,green gram,7423,8619,8619
+2225,Partur,pigeon pea (tur),4604,9751,9751
+2226,Partur,sorgum(jawar),2814,1822,1822
+2227,Partur,soybean,3336,3790,3790
+2228,Partur,wheat(husked),1583,2283,2283
+2229,Patan,bitter gourd,3214,3600,3600
+2230,Patan,brinjal,3011,1871,1871
+2231,Patan,cabbage,1165,1261,1261
+2232,Patan,cluster bean,4317,4500,4500
+2233,Patan,coriander  ,8,5,5
+2234,Patan,cucumber,1233,1775,1775
+2235,Patan,flower,2400,1617,1617
+2236,Patan,ghevda,3500,3500,3500
+2237,Patan,ginger (fresh),4653,4433,4433
+2238,Patan,green chilli,2909,3654,3654
+2239,Patan,ladies finger,4643,3750,3750
+2240,Patan,pavtta,5250,4083,4083
+2241,Patan,tomato,2278,3025,3025
+2242,Pathardi,bajri,1548,1529,1529
+2243,Pathardi,cotton,4022,4390,4390
+2244,Pathardi,gram,2817,4530,4530
+2245,Pathardi,onion,1855,3168,3168
+2246,Pathardi,pigeon pea (tur),5000,8720,8720
+2247,Pathardi,sorgum(jawar),2120,1988,1988
+2248,Pathardi,wheat(husked),2200,2213,2213
+2249,Pathari,bajri,2670,1479,1479
+2250,Pathari,gram,0,4100,4100
+2251,Pathari,green gram,6967,7926,7926
+2252,Pathari,pigeon pea (tur),0,9801,9801
+2253,Pathari,sorgum(jawar),2400,2308,2308
+2254,Pathari,soybean,3261,3746,3746
+2255,Pathari,wheat(husked),1701,2089,2089
+2256,Patur,gram,3500,4900,4900
+2257,Patur,green gram,6000,6700,6700
+2258,Patur,pigeon pea (tur),4575,9050,9050
+2259,Patur,sorgum(jawar),1815,1700,1700
+2260,Patur,soybean,3200,3749,3749
+2261,Patur,wheat(husked),1750,1850,1850
+2262,Pavani,paddy-unhusked,2416,2029,2029
+2263,Pavani,wheat(husked),1500,0,0
+2264,Pen,paddy-unhusked,1400,1450,1450
+2265,Pen,rice(paddy-hus),6331,6500,6500
+2266,Phaltan,bajri,2138,2008,2008
+2267,Phaltan,gram,3380,5650,5650
+2268,Phaltan,jaggery,3189,2815,2815
+2269,Phaltan,maize,1392,1717,1717
+2270,Phaltan,onion,2092,3377,3377
+2271,Phaltan,pomegranate,0,0,0
+2272,Phaltan,sorgum(jawar),2808,2948,2948
+2273,Phaltan,wheat(husked),2180,2336,2336
+2274,Pimpalgaon (B)-Saykheda,onion,1640,2954,2954
+2275,Pimpalgaon Basawant,onion,1924,2911,2911
+2276,Pimpalgaon Basawant,pomegranate,8567,11856,11856
+2277,Pimpalgaon Basawant,tomato,2325,3087,3087
+2278,Pombhurni,cotton,0,0,0
+2279,Pombhurni,paddy-unhusked,0,2017,2017
+2280,Pulgaon,cotton,4115,4540,4540
+2281,Pulgaon,gram,2300,4329,4329
+2282,Pulgaon,pigeon pea (tur),4000,8084,8084
+2283,Pulgaon,soybean,3301,3889,3889
+2284,Pulgaon,wheat(husked),0,1376,1376
+2285,Pune-Manjri,ambat chuka,1440,2010,2010
+2286,Pune-Manjri,bitter gourd,4497,5078,5078
+2287,Pune-Manjri,bottle gourd,2126,2775,2775
+2288,Pune-Manjri,brinjal,4831,3704,3704
+2289,Pune-Manjri,cabbage,1565,2000,2000
+2290,Pune-Manjri,chavli (pala),1528,1828,1828
+2291,Pune-Manjri,chavli (shenga ),3096,3696,3696
+2292,Pune-Manjri,cluster bean,6735,7525,7525
+2293,Pune-Manjri,coriander  ,3208,5350,5350
+2294,Pune-Manjri,cucumber,3082,3018,3018
+2295,Pune-Manjri,custard apple,4119,5554,5554
+2296,Pune-Manjri,flower,2195,1893,1893
+2297,Pune-Manjri,ghevda,6222,5740,5740
+2298,Pune-Manjri,ghosali(bhaji),4100,4463,4463
+2299,Pune-Manjri,goosefoot,1413,1275,1275
+2300,Pune-Manjri,green chilli,4532,5014,5014
+2301,Pune-Manjri,green-peas,6295,7663,7663
+2302,Pune-Manjri,guava,2783,3494,3494
+2303,Pune-Manjri,harbara(pendi),1913,2157,2157
+2304,Pune-Manjri,hemp,1367,1000,1000
+2305,Pune-Manjri,kanda pat,2531,3400,3400
+2306,Pune-Manjri,kardai,1288,1310,1310
+2307,Pune-Manjri,ladies finger,5018,9250,9250
+2308,Pune-Manjri,methi (bhaji),3653,4473,4473
+2309,Pune-Manjri,onion,1294,3933,3933
+2310,Pune-Manjri,other vegetables,0,1710,1710
+2311,Pune-Manjri,pavtta,5964,6294,6294
+2312,Pune-Manjri,raddish,2238,3771,3771
+2313,Pune-Manjri,rajgira,1181,1490,1490
+2314,Pune-Manjri,ridge gourd,6031,6040,6040
+2315,Pune-Manjri,shepu,2100,3256,3256
+2316,Pune-Manjri,spinach,2025,2167,2167
+2317,Pune-Manjri,squash gourd,0,6375,6375
+2318,Pune-Manjri,tomato,2258,3274,3274
+2319,Pune-Manjri,walvad,4792,5433,5433
+2320,Pune-Moshi,beet root,0,0,0
+2321,Pune-Moshi,bitter gourd,0,0,0
+2322,Pune-Moshi,bottle gourd,0,0,0
+2323,Pune-Moshi,brinjal,0,0,0
+2324,Pune-Moshi,cabbage,0,0,0
+2325,Pune-Moshi,capsicum,0,0,0
+2326,Pune-Moshi,carrot,0,0,0
+2327,Pune-Moshi,chavli (shenga ),0,0,0
+2328,Pune-Moshi,cluster bean,0,0,0
+2329,Pune-Moshi,cucumber,0,0,0
+2330,Pune-Moshi,flower,0,0,0
+2331,Pune-Moshi,garlic,0,0,0
+2332,Pune-Moshi,ghevda,0,0,0
+2333,Pune-Moshi,ghosali(bhaji),0,0,0
+2334,Pune-Moshi,ginger (fresh),0,0,0
+2335,Pune-Moshi,green chilli,0,0,0
+2336,Pune-Moshi,green-peas,0,0,0
+2337,Pune-Moshi,ladies finger,0,0,0
+2338,Pune-Moshi,onion,0,0,0
+2339,Pune-Moshi,pavtta,0,0,0
+2340,Pune-Moshi,potato,0,0,0
+2341,Pune-Moshi,shevga,0,0,0
+2342,Pune-Moshi,small gourd,0,0,0
+2343,Pune-Moshi,squash gourd,0,0,0
+2344,Pune-Moshi,tomato,0,0,0
+2345,Pune-Moshi,walvad,0,0,0
+2346,Pune-Pimpri,beet root,2350,2200,2200
+2347,Pune-Pimpri,bitter gourd,3683,4500,4500
+2348,Pune-Pimpri,bottle gourd,2324,2439,2439
+2349,Pune-Pimpri,brinjal,3873,3220,3220
+2350,Pune-Pimpri,cabbage,1092,1307,1307
+2351,Pune-Pimpri,capsicum,0,3750,3750
+2352,Pune-Pimpri,carrot,3200,2300,2300
+2353,Pune-Pimpri,chavli (shenga ),2100,3000,3000
+2354,Pune-Pimpri,cluster bean,4625,5857,5857
+2355,Pune-Pimpri,cucumber,2556,2433,2433
+2356,Pune-Pimpri,flower,2232,1746,1746
+2357,Pune-Pimpri,garlic,0,6000,6000
+2358,Pune-Pimpri,ghevda,4165,4667,4667
+2359,Pune-Pimpri,ghosali(bhaji),3323,3538,3538
+2360,Pune-Pimpri,ginger (dry),0,3571,3571
+2361,Pune-Pimpri,ginger (fresh),0,4000,4000
+2362,Pune-Pimpri,green chilli,4056,5300,5300
+2363,Pune-Pimpri,green-peas,3000,6000,6000
+2364,Pune-Pimpri,ground nut pods (dry),0,0,0
+2365,Pune-Pimpri,ladies finger,3636,3667,3667
+2366,Pune-Pimpri,mango(raw),0,2050,2050
+2367,Pune-Pimpri,onion,2440,3875,3875
+2368,Pune-Pimpri,pavtta,2800,4300,4300
+2369,Pune-Pimpri,potato,4000,3080,3080
+2370,Pune-Pimpri,ridge gourd,4000,4438,4438
+2371,Pune-Pimpri,shepu,5,7,7
+2372,Pune-Pimpri,shevga,5867,6000,6000
+2373,Pune-Pimpri,squash gourd,1200,1300,1300
+2374,Pune-Pimpri,tomato,2410,3264,3264
+2375,Pune-Pimpri,wal papdi,3179,4000,4000
+2376,Pune-Pimpri,walvad,3425,3591,3591
+2377,Pune,arvi,2500,3208,3208
+2378,Pune,bajri,3196,2188,2188
+2379,Pune,beet root,1420,1565,1565
+2380,Pune,bitter gourd,3724,4237,4237
+2381,Pune,black gram,6529,13157,13157
+2382,Pune,bottle gourd,1655,1755,1755
+2383,Pune,brinjal,3833,3550,3550
+2384,Pune,cabbage,909,1375,1375
+2385,Pune,capsicum,3728,3310,3310
+2386,Pune,carrot,2760,2561,2561
+2387,Pune,chavli (pala),2500,2500,2500
+2388,Pune,chavli (shenga ),2700,2881,2881
+2389,Pune,chillies(red),16000,15610,15610
+2390,Pune,cluster bean,4760,5929,5929
+2391,Pune,coriander (dry),20000,17889,17889
+2392,Pune,cucumber,2244,2481,2481
+2393,Pune,curry leaves,2096,2538,2538
+2394,Pune,dhemse,3000,3200,3200
+2395,Pune,double bee,5000,6000,6000
+2396,Pune,elephant root,2386,3000,3000
+2397,Pune,flower,1833,1578,1578
+2398,Pune,garlic,6813,15273,15273
+2399,Pune,ghevda,4488,7425,7425
+2400,Pune,ghosali(bhaji),2540,3060,3060
+2401,Pune,ginger (fresh),5170,4130,4130
+2402,Pune,gr.nut kernels,7519,9470,9470
+2403,Pune,gram,6689,6375,6375
+2404,Pune,green chilli,4271,4600,4600
+2405,Pune,green gram,8700,13492,13492
+2406,Pune,green peas (dry),5815,5457,5457
+2407,Pune,green-peas,8111,10650,10650
+2408,Pune,ground nut pods (dry),0,0,0
+2409,Pune,jaggery,3233,2816,2816
+2410,Pune,ladies finger,4029,4975,4975
+2411,Pune,lemon,0,700,700
+2412,Pune,lentil,7088,7950,7950
+2413,Pune,maize,1677,1790,1790
+2414,Pune,mango(raw),700,5833,5833
+2415,Pune,mula shenga,0,2770,2770
+2416,Pune,nolkol,0,700,700
+2417,Pune,onion,2136,2531,2531
+2418,Pune,parwar,3250,3533,3533
+2419,Pune,pavtta,5405,5559,5559
+2420,Pune,potato,2872,1633,1633
+2421,Pune,pumpkin,1830,1921,1921
+2422,Pune,rice(paddy-hus),6481,5822,5822
+2423,Pune,ridge gourd,4300,4875,4875
+2424,Pune,shevga,6674,7063,7063
+2425,Pune,small gourd,3114,3429,3429
+2426,Pune,snake gourd,1853,2254,2254
+2427,Pune,sorgum(jawar),3067,3006,3006
+2428,Pune,squash gourd,1117,4500,4500
+2429,Pune,sweet potato,2200,2494,2494
+2430,Pune,tamarind,5000,5100,5100
+2431,Pune,tomato,2152,2255,2255
+2432,Pune,turmeric,10600,14667,14667
+2433,Pune,wal bhaji,3124,4000,4000
+2434,Pune,wal papdi,3294,3875,3875
+2435,Pune,walvad,3510,4167,4167
+2436,Pune,wheat(husked),2628,2877,2877
+2437,Purna,gram,0,4093,4093
+2438,Purna,green gram,6700,8310,8310
+2439,Purna,ground nut pods (dry),4266,5876,5876
+2440,Purna,pigeon pea (tur),4200,8610,8610
+2441,Purna,safflower,0,2435,2435
+2442,Purna,sorgum(jawar),1216,1647,1647
+2443,Purna,soybean,3383,3730,3730
+2444,Purna,turmeric,0,7920,7920
+2445,Purna,wheat(husked),1552,1904,1904
+2446,Pusad,bajri,1890,1808,1808
+2447,Pusad,batbati,3925,5018,5018
+2448,Pusad,black gram,5333,10865,10865
+2449,Pusad,gram,2803,5639,5639
+2450,Pusad,green gram,8006,9350,9350
+2451,Pusad,ground nut pods (dry),0,5870,5870
+2452,Pusad,pigeon pea (tur),5417,10922,10922
+2453,Pusad,sesamum,9593,9205,9205
+2454,Pusad,sorgum(jawar),1670,1652,1652
+2455,Pusad,soybean,3374,4210,4210
+2456,Pusad,spilt pigeon pea,6780,13500,13500
+2457,Pusad,wheat(husked),1994,2027,2027
+2458,Rahata,bajri,1421,1445,1445
+2459,Rahata,beet root,2250,2500,2500
+2460,Rahata,bitter gourd,3038,3000,3000
+2461,Rahata,bor,2625,2500,2500
+2462,Rahata,bottle gourd,851,1523,1523
+2463,Rahata,brinjal,2392,2138,2138
+2464,Rahata,cabbage,6,13,13
+2465,Rahata,capsicum,3727,3042,3042
+2466,Rahata,carrot,1750,3045,3045
+2467,Rahata,cluster bean,5250,6750,6750
+2468,Rahata,coriander  ,5,25,25
+2469,Rahata,cucumber,2500,2167,2167
+2470,Rahata,curry leaves,0,10,10
+2471,Rahata,flower,10,20,20
+2472,Rahata,garlic,3515,11679,11679
+2473,Rahata,ghevda,3250,4063,4063
+2474,Rahata,ginger (fresh),6389,5045,5045
+2475,Rahata,gram,2617,4209,4209
+2476,Rahata,green chilli,0,5900,5900
+2477,Rahata,green gram,7655,8200,8200
+2478,Rahata,green peas (dry),4000,4250,4250
+2479,Rahata,ground nut pods (dry),5000,4250,4250
+2480,Rahata,ladies finger,3850,3800,3800
+2481,Rahata,lemon,4250,6000,6000
+2482,Rahata,maize,1475,1417,1417
+2483,Rahata,mango(raw),0,1667,1667
+2484,Rahata,onion,2163,3413,3413
+2485,Rahata,pigeon pea (tur),0,0,0
+2486,Rahata,pomegranate,11067,18675,18675
+2487,Rahata,potato,2558,2330,2330
+2488,Rahata,shevga,4000,3875,3875
+2489,Rahata,small gourd,1800,2400,2400
+2490,Rahata,sorgum(jawar),1486,1514,1514
+2491,Rahata,soybean,3300,3710,3710
+2492,Rahata,sweet potato,3000,3600,3600
+2493,Rahata,tomato,1923,2400,2400
+2494,Rahata,walvad,2638,3300,3300
+2495,Rahata,wheat(husked),1611,1675,1675
+2496,Rahuri-Vambori,bajri,1620,1686,1686
+2497,Rahuri-Vambori,gram,2660,4867,4867
+2498,Rahuri-Vambori,green gram,6850,8553,8553
+2499,Rahuri-Vambori,ground nut pods (dry),4032,5147,5147
+2500,Rahuri-Vambori,maize,1203,1474,1474
+2501,Rahuri-Vambori,onion,2157,2667,2667
+2502,Rahuri-Vambori,pigeon pea (tur),4440,9412,9412
+2503,Rahuri-Vambori,sorgum(jawar),2128,1851,1851
+2504,Rahuri-Vambori,soybean,3283,3789,3789
+2505,Rahuri-Vambori,sunflower,2946,3000,3000
+2506,Rahuri-Vambori,wheat(husked),1756,2035,2035
+2507,Rahuri,bajri,1385,1380,1380
+2508,Rahuri,brinjal,0,3167,3167
+2509,Rahuri,cabbage,0,1160,1160
+2510,Rahuri,cucumber,0,1633,1633
+2511,Rahuri,gram,3250,3405,3405
+2512,Rahuri,green chilli,0,3175,3175
+2513,Rahuri,ground nut pods (dry),0,3516,3516
+2514,Rahuri,maize,1341,1317,1317
+2515,Rahuri,onion,2189,2804,2804
+2516,Rahuri,pomegranate,0,6250,6250
+2517,Rahuri,potato,0,1300,1300
+2518,Rahuri,sorgum(jawar),1655,1592,1592
+2519,Rahuri,tomato,0,2500,2500
+2520,Rahuri,wheat(husked),1543,1564,1564
+2521,Rajura,cotton,4013,4266,4266
+2522,Rajura,gram,0,4150,4150
+2523,Rajura,pigeon pea (tur),0,7629,7629
+2524,Rajura,soybean,3339,3830,3830
+2525,Ralegaon,cotton,4050,4373,4373
+2526,Ramtek,bitter gourd,0,4000,4000
+2527,Ramtek,bottle gourd,0,2560,2560
+2528,Ramtek,brinjal,0,1505,1505
+2529,Ramtek,cabbage,0,2008,2008
+2530,Ramtek,capsicum,0,3000,3000
+2531,Ramtek,chavli (pala),0,3500,3500
+2532,Ramtek,chavli (shenga ),0,3400,3400
+2533,Ramtek,chillies(red),0,8000,8000
+2534,Ramtek,cluster bean,0,2000,2000
+2535,Ramtek,coriander  ,0,7762,7762
+2536,Ramtek,cucumber,0,1970,1970
+2537,Ramtek,dhemse,0,3192,3192
+2538,Ramtek,flower,0,2026,2026
+2539,Ramtek,garlic,0,9464,9464
+2540,Ramtek,ginger (fresh),0,5111,5111
+2541,Ramtek,gram,0,14825,14825
+2542,Ramtek,green chilli,0,2962,2962
+2543,Ramtek,jack fruit,0,1200,1200
+2544,Ramtek,ladies finger,0,1405,1405
+2545,Ramtek,lemon,0,2000,2000
+2546,Ramtek,mango,0,2000,2000
+2547,Ramtek,onion,0,3816,3816
+2548,Ramtek,paddy-unhusked,0,1976,1976
+2549,Ramtek,pigeon pea (tur),0,7350,7350
+2550,Ramtek,potato,0,1379,1379
+2551,Ramtek,pumpkin,0,1100,1100
+2552,Ramtek,raddish,0,1500,1500
+2553,Ramtek,soybean,0,3104,3104
+2554,Ramtek,spinach,0,3550,3550
+2555,Ramtek,squash gourd,0,2000,2000
+2556,Ramtek,tomato,0,2081,2081
+2557,Ramtek,wal bhaji,0,3409,3409
+2558,Ramtek,wheat(husked),0,1509,1509
+2559,Ratanagari,bitter gourd,3719,3929,3929
+2560,Ratanagari,bottle gourd,2500,1800,1800
+2561,Ratanagari,brinjal,3789,2818,2818
+2562,Ratanagari,cabbage,1389,1591,1591
+2563,Ratanagari,capsicum,4458,3984,3984
+2564,Ratanagari,carrot,3000,3000,3000
+2565,Ratanagari,cluster bean,4500,5500,5500
+2566,Ratanagari,coriander  ,14,22,22
+2567,Ratanagari,cucumber,2583,2550,2550
+2568,Ratanagari,flower,3645,3273,3273
+2569,Ratanagari,french bean,5500,3833,3833
+2570,Ratanagari,ginger (fresh),5750,6000,6000
+2571,Ratanagari,green chilli,4139,4316,4316
+2572,Ratanagari,green-peas,4525,9000,9000
+2573,Ratanagari,ladies finger,4765,4548,4548
+2574,Ratanagari,maize(corn.),4750,6000,6000
+2575,Ratanagari,math (bhaji),14,6,6
+2576,Ratanagari,snake gourd,1500,2667,2667
+2577,Ratanagari,spinach,0,10,10
+2578,Ratanagari,sweet potato,3000,3000,3000
+2579,Ratanagari,tomato,2473,2770,2770
+2580,Raver,bajri,1575,1726,1726
+2581,Raver,black gram,5730,8330,8330
+2582,Raver,gram,2686,5305,5305
+2583,Raver,green gram,6447,6900,6900
+2584,Raver,maize,1228,1456,1456
+2585,Raver,pigeon pea (tur),3903,7447,7447
+2586,Raver,rice(paddy-hus),0,0,0
+2587,Raver,sorgum(jawar),1542,1475,1475
+2588,Raver,wheat(husked),1638,1700,1700
+2589,Risod,black gram,0,11847,11847
+2590,Risod,gram,3271,6800,6800
+2591,Risod,green gram,0,8816,8816
+2592,Risod,pigeon pea (tur),4992,10017,10017
+2593,Risod,soybean,3305,3916,3916
+2594,Risod,turmeric,0,0,0
+2595,Roha,paddy-unhusked,1400,1400,1400
+2596,Sadak Arjuni,paddy-unhusked,0,0,0
+2597,Sailu,bajri,1600,1551,1551
+2598,Sailu,black gram,4513,5500,5500
+2599,Sailu,cotton,4128,4463,4463
+2600,Sailu,gram,3037,4791,4791
+2601,Sailu,green gram,7682,8684,8684
+2602,Sailu,pigeon pea (tur),4901,10000,10000
+2603,Sailu,sorgum(jawar),1600,1927,1927
+2604,Sailu,soybean,3335,3980,3980
+2605,Sailu,wheat(husked),1569,1930,1930
+2606,Sakri,bajri,1284,1469,1469
+2607,Sakri,gram,2286,3944,3944
+2608,Sakri,green gram,5980,0,0
+2609,Sakri,ground nut pods (dry),4514,5695,5695
+2610,Sakri,maize,1151,1540,1540
+2611,Sakri,onion,0,0,0
+2612,Sakri,pigeon pea (tur),3030,7221,7221
+2613,Sakri,sorgum(jawar),1111,1165,1165
+2614,Sakri,soybean,2843,3541,3541
+2615,Sakri,wheat(husked),1386,1488,1488
+2616,Samudrapur,cotton,4140,4358,4358
+2617,Samudrapur,gram,0,3673,3673
+2618,Samudrapur,pigeon pea (tur),0,8251,8251
+2619,Samudrapur,soybean,3317,3736,3736
+2620,Sangali,bajri,1825,1830,1830
+2621,Sangali,bedana,27800,30040,30040
+2622,Sangali,black gram,5500,10557,10557
+2623,Sangali,castor seed,3375,3200,3200
+2624,Sangali,chillies(red),10020,13222,13222
+2625,Sangali,coriander (dry),11575,12000,12000
+2626,Sangali,gram,0,5000,5000
+2627,Sangali,green gram,8556,9400,9400
+2628,Sangali,green peas (dry),0,0,0
+2629,Sangali,horse gram,0,4000,4000
+2630,Sangali,jaggery,3871,3539,3539
+2631,Sangali,lentil,6550,8378,8378
+2632,Sangali,maize,1442,1672,1672
+2633,Sangali,matki,11567,11821,11821
+2634,Sangali,pigeon pea (tur),0,11500,11500
+2635,Sangali,rice(paddy-hus),5600,5500,5500
+2636,Sangali,sorgum(jawar),2827,2782,2782
+2637,Sangali,soybean,3554,4030,4030
+2638,Sangali,turmeric,10767,22451,22451
+2639,Sangali,wheat(husked),2825,3072,3072
+2640,Sangali,wheat(unhusked),4578,5906,5906
+2641,Sangamner,bajri,1730,2983,2983
+2642,Sangamner,flower,1550,1500,1500
+2643,Sangamner,gram,3288,4858,4858
+2644,Sangamner,green gram,6000,7625,7625
+2645,Sangamner,maize,1359,1450,1450
+2646,Sangamner,matki,7000,0,0
+2647,Sangamner,onion,2282,2888,2888
+2648,Sangamner,pigeon pea (tur),0,6467,6467
+2649,Sangamner,pomegranate,10375,11081,11081
+2650,Sangamner,sorgum(jawar),2019,2350,2350
+2651,Sangamner,soybean,3500,4100,4100
+2652,Sangamner,tomato,2836,2070,2070
+2653,Sangamner,wheat(husked),1722,2050,2050
+2654,Sangli-Miraj,maize,0,1602,1602
+2655,Sangli-Miraj,wheat(unhusked),0,3957,3957
+2656,Sangli-Phale Bhajipalam,apple,0,12489,12489
+2657,Sangli-Phale Bhajipalam,bor,0,2000,2000
+2658,Sangli-Phale Bhajipalam,chikoo,0,5167,5167
+2659,Sangli-Phale Bhajipalam,custard apple,0,5196,5196
+2660,Sangli-Phale Bhajipalam,garlic,0,8500,8500
+2661,Sangli-Phale Bhajipalam,ginger (fresh),0,4500,4500
+2662,Sangli-Phale Bhajipalam,mango,0,0,0
+2663,Sangli-Phale Bhajipalam,mosambi,0,4028,4028
+2664,Sangli-Phale Bhajipalam,onion,0,3255,3255
+2665,Sangli-Phale Bhajipalam,orange,0,4000,4000
+2666,Sangli-Phale Bhajipalam,papai,0,1075,1075
+2667,Sangli-Phale Bhajipalam,pineapple,0,3449,3449
+2668,Sangli-Phale Bhajipalam,pomegranate,0,8063,8063
+2669,Sangli-Phale Bhajipalam,potato,0,1300,1300
+2670,Sangli-Phale Bhajipalam,water melon,0,367,367
+2671,Sangola,pomegranate,5709,6335,6335
+2672,Sangrampur-Varvatbakal,black gram,0,8550,8550
+2673,Sangrampur-Varvatbakal,gram,0,7786,7786
+2674,Sangrampur-Varvatbakal,green gram,0,6925,6925
+2675,Sangrampur-Varvatbakal,maize,0,1275,1275
+2676,Sangrampur-Varvatbakal,pigeon pea (tur),0,8960,8960
+2677,Sangrampur-Varvatbakal,sorgum(jawar),0,1400,1400
+2678,Sangrampur-Varvatbakal,soybean,0,3577,3577
+2679,Sangrampur-Varvatbakal,wheat(husked),0,1510,1510
+2680,Sangrampur,black gram,5300,6300,6300
+2681,Sangrampur,gram,2550,4470,4470
+2682,Sangrampur,green gram,8020,7800,7800
+2683,Sangrampur,maize,1066,1150,1150
+2684,Sangrampur,pigeon pea (tur),4763,9120,9120
+2685,Sangrampur,sorgum(jawar),1361,1390,1390
+2686,Sangrampur,soybean,3262,3742,3742
+2687,Sangrampur,wheat(husked),1454,1500,1500
+2688,Satana,bajri,1653,1764,1764
+2689,Satana,gram,2759,5004,5004
+2690,Satana,green gram,7957,8863,8863
+2691,Satana,ground nut pods (dry),0,6639,6639
+2692,Satana,maize,1255,1539,1539
+2693,Satana,onion,1969,3158,3158
+2694,Satana,pigeon pea (tur),3781,8800,8800
+2695,Satana,pomegranate,0,5873,5873
+2696,Satana,wheat(husked),1777,1969,1969
+2697,Satara,bitter gourd,3750,4344,4344
+2698,Satara,bottle gourd,1954,1792,1792
+2699,Satara,brinjal,3442,2428,2428
+2700,Satara,cabbage,904,1285,1285
+2701,Satara,capsicum,4071,3452,3452
+2702,Satara,carrot,2542,2490,2490
+2703,Satara,cluster bean,4630,5714,5714
+2704,Satara,cucumber,2196,2864,2864
+2705,Satara,flower,2500,2319,2319
+2706,Satara,garlic,5000,12400,12400
+2707,Satara,ghevda,3500,5000,5000
+2708,Satara,ginger (fresh),4813,4088,4088
+2709,Satara,green chilli,3236,4798,4798
+2710,Satara,green-peas,6000,10733,10733
+2711,Satara,ground nut pods (dry),4000,4500,4500
+2712,Satara,ladies finger,3907,4429,4429
+2713,Satara,onion,2044,3650,3650
+2714,Satara,pavtta,5810,6273,6273
+2715,Satara,potato,2722,1650,1650
+2716,Satara,shevga,7500,6625,6625
+2717,Satara,sweet potato,1500,1900,1900
+2718,Satara,tomato,1896,2963,2963
+2719,Savali,paddy-unhusked,2600,2191,2191
+2720,Savner,cotton,3960,4247,4247
+2721,Savner,gram,2665,4860,4860
+2722,Savner,ground nut pods (dry),4000,5085,5085
+2723,Savner,maize,1064,1379,1379
+2724,Savner,pigeon pea (tur),4669,8725,8725
+2725,Savner,sorgum(jawar),1380,1440,1440
+2726,Savner,soybean,3303,3583,3583
+2727,Savner,wheat(husked),1434,1709,1709
+2728,Sengaon,black gram,0,10498,10498
+2729,Sengaon,gram,0,4815,4815
+2730,Sengaon,green gram,0,8256,8256
+2731,Sengaon,ground nut pods (dry),0,5450,5450
+2732,Sengaon,pigeon pea (tur),0,10250,10250
+2733,Sengaon,sorgum(jawar),0,1600,1600
+2734,Sengaon,soybean,0,3733,3733
+2735,Sengaon,turmeric,0,9236,9236
+2736,Sengaon,wheat(husked),0,1700,1700
+2737,Shahada,bajri,1526,2766,2766
+2738,Shahada,black gram,5440,10340,10340
+2739,Shahada,gram,3036,4892,4892
+2740,Shahada,green gram,7618,8703,8703
+2741,Shahada,maize,1490,1482,1482
+2742,Shahada,pigeon pea (tur),4801,8628,8628
+2743,Shahada,sorgum(jawar),1863,2061,2061
+2744,Shahada,soybean,3377,3798,3798
+2745,Shahada,wheat(husked),1796,1909,1909
+2746,Shahapur,bitter gourd,3377,4725,4725
+2747,Shahapur,brinjal,1900,2133,2133
+2748,Shahapur,capsicum,0,2500,2500
+2749,Shahapur,chavli (shenga ),2900,2975,2975
+2750,Shahapur,cluster bean,4500,4844,4844
+2751,Shahapur,cucumber,2383,2333,2333
+2752,Shahapur,ghosali(bhaji),2143,2595,2595
+2753,Shahapur,ladies finger,3525,3875,3875
+2754,Shahapur,mango(raw),0,2023,2023
+2755,Shahapur,paddy-unhusked,1590,1658,1658
+2756,Shahapur,ridge gourd,3267,4950,4950
+2757,Shahapur,shevga,7083,7353,7353
+2758,Shegaon,bajri,1270,1605,1605
+2759,Shegaon,black gram,5565,10894,10894
+2760,Shegaon,gram,2792,4804,4804
+2761,Shegaon,green gram,8270,8828,8828
+2762,Shegaon,maize,1025,1250,1250
+2763,Shegaon,mustard,2836,3589,3589
+2764,Shegaon,pigeon pea (tur),4628,10102,10102
+2765,Shegaon,sesamum,10084,16793,16793
+2766,Shegaon,sorgum(jawar),1393,1440,1440
+2767,Shegaon,soybean,3396,3839,3839
+2768,Shegaon,sunflower,3238,3250,3250
+2769,Shegaon,thymol-lovage,7889,14371,14371
+2770,Shegaon,wheat(husked),1511,1550,1550
+2771,Shevgaon-Bodhegaon,bajri,1460,1591,1591
+2772,Shevgaon-Bodhegaon,gram,2918,4163,4163
+2773,Shevgaon-Bodhegaon,maize,1045,1400,1400
+2774,Shevgaon-Bodhegaon,pigeon pea (tur),4900,8759,8759
+2775,Shevgaon-Bodhegaon,sorgum(jawar),1915,1890,1890
+2776,Shevgaon-Bodhegaon,wheat(husked),1530,1778,1778
+2777,Shevgaon,bajri,1452,1589,1589
+2778,Shevgaon,cotton,4102,3985,3985
+2779,Shevgaon,gram,2500,4367,4367
+2780,Shevgaon,maize,1000,1448,1448
+2781,Shevgaon,pigeon pea (tur),4900,8891,8891
+2782,Shevgaon,sorgum(jawar),2522,1999,1999
+2783,Shevgaon,soybean,3113,3400,3400
+2784,Shevgaon,wheat(husked),1640,1785,1785
+2785,Shirpur,bajri,1434,1585,1585
+2786,Shirpur,black gram,6284,10998,10998
+2787,Shirpur,chillies(red),9000,6200,6200
+2788,Shirpur,cowpea,5200,7767,7767
+2789,Shirpur,gram,2953,5016,5016
+2790,Shirpur,green gram,7927,8622,8622
+2791,Shirpur,ground nut pods (dry),4813,6032,6032
+2792,Shirpur,maize,1304,1468,1468
+2793,Shirpur,matki,7288,8022,8022
+2794,Shirpur,onion,1676,2396,2396
+2795,Shirpur,pigeon pea (tur),3901,9101,9101
+2796,Shirpur,sesamum,11325,9308,9308
+2797,Shirpur,sorgum(jawar),1829,2306,2306
+2798,Shirpur,soybean,3258,3805,3805
+2799,Shirpur,sunflower,0,3050,3050
+2800,Shirpur,wheat(husked),1793,1959,1959
+2801,Shirur,bajri,1477,1523,1523
+2802,Shirur,black gram,0,7200,7200
+2803,Shirur,castor seed,0,3400,3400
+2804,Shirur,cowpea,2700,5075,5075
+2805,Shirur,gram,2440,3963,3963
+2806,Shirur,green gram,6700,7725,7725
+2807,Shirur,ground nut pods (dry),3067,4100,4100
+2808,Shirur,indian bean,4550,4162,4162
+2809,Shirur,maize,1260,1466,1466
+2810,Shirur,pigeon pea (tur),3400,7588,7588
+2811,Shirur,sorgum(jawar),1715,1718,1718
+2812,Shirur,soybean,3100,3400,3400
+2813,Shirur,tamarind,0,2257,2257
+2814,Shirur,wheat(husked),1506,1546,1546
+2815,Shrigonda-Ghogargaon,cotton,4091,4421,4421
+2816,Shrigonda,bajri,0,1567,1567
+2817,Shrigonda,gram,0,0,0
+2818,Shrigonda,ground nut pods (dry),0,3000,3000
+2819,Shrigonda,maize,0,1496,1496
+2820,Shrigonda,onion,0,1833,1833
+2821,Shrigonda,sorgum(jawar),0,2195,2195
+2822,Shrigonda,wheat(husked),0,0,0
+2823,Shrirampur-Belapur,bajri,0,1367,1367
+2824,Shrirampur-Belapur,gram,0,3495,3495
+2825,Shrirampur-Belapur,maize,0,1300,1300
+2826,Shrirampur-Belapur,sorgum(jawar),0,1180,1180
+2827,Shrirampur-Belapur,soybean,0,3480,3480
+2828,Shrirampur-Belapur,wheat(husked),0,1574,1574
+2829,Shrirampur,bajri,1564,1647,1647
+2830,Shrirampur,bitter gourd,3455,4000,4000
+2831,Shrirampur,black gram,0,8933,8933
+2832,Shrirampur,bor,1957,2000,2000
+2833,Shrirampur,bottle gourd,986,983,983
+2834,Shrirampur,brinjal,2286,1908,1908
+2835,Shrirampur,cabbage,936,848,848
+2836,Shrirampur,capsicum,2941,2900,2900
+2837,Shrirampur,carrot,0,1227,1227
+2838,Shrirampur,chikoo,2500,2250,2250
+2839,Shrirampur,cluster bean,0,3700,3700
+2840,Shrirampur,cucumber,1577,1613,1613
+2841,Shrirampur,custard apple,3478,3500,3500
+2842,Shrirampur,fenugreek,3526,5576,5576
+2843,Shrirampur,flower,841,1112,1112
+2844,Shrirampur,garlic,3375,7000,7000
+2845,Shrirampur,ginger (fresh),5238,4000,4000
+2846,Shrirampur,gram,3129,4911,4911
+2847,Shrirampur,grapes,0,4023,4023
+2848,Shrirampur,green chilli,4214,4417,4417
+2849,Shrirampur,green gram,7559,7928,7928
+2850,Shrirampur,green-peas,2660,3321,3321
+2851,Shrirampur,ground nut pods (dry),4000,4500,4500
+2852,Shrirampur,ladies finger,3045,3543,3543
+2853,Shrirampur,lemon,3810,4326,4326
+2854,Shrirampur,maize,1557,1387,1387
+2855,Shrirampur,mango(raw),0,3500,3500
+2856,Shrirampur,mango,0,4417,4417
+2857,Shrirampur,mosambi,3063,3500,3500
+2858,Shrirampur,onion,2000,3106,3106
+2859,Shrirampur,orange,0,2067,2067
+2860,Shrirampur,papai,1165,1500,1500
+2861,Shrirampur,pigeon pea (tur),4100,7400,7400
+2862,Shrirampur,pomegranate,4800,4800,4800
+2863,Shrirampur,potato,2288,1358,1358
+2864,Shrirampur,shevga,3333,4000,4000
+2865,Shrirampur,sorgum(jawar),1947,1981,1981
+2866,Shrirampur,soybean,3260,3780,3780
+2867,Shrirampur,sweet potato,2500,2000,2000
+2868,Shrirampur,tamarind,0,2055,2055
+2869,Shrirampur,tomato,2690,3000,3000
+2870,Shrirampur,water melon,1500,1167,1167
+2871,Shrirampur,wheat(husked),1866,1996,1996
+2872,Sillod-Bharadi,bajri,1317,1250,1250
+2873,Sillod-Bharadi,black gram,4167,5600,5600
+2874,Sillod-Bharadi,gram,3500,4050,4050
+2875,Sillod-Bharadi,green gram,7933,8000,8000
+2876,Sillod-Bharadi,maize,1292,1422,1422
+2877,Sillod-Bharadi,mustard,0,0,0
+2878,Sillod-Bharadi,pigeon pea (tur),0,0,0
+2879,Sillod-Bharadi,sorgum(jawar),1642,1125,1125
+2880,Sillod-Bharadi,soybean,3228,3500,3500
+2881,Sillod-Bharadi,wheat(husked),1539,1558,1558
+2882,Sillod,bajri,1420,1350,1350
+2883,Sillod,castor seed,0,3500,3500
+2884,Sillod,gram,2500,4133,4133
+2885,Sillod,green gram,6500,8500,8500
+2886,Sillod,maize,0,1533,1533
+2887,Sillod,mustard,0,3400,3400
+2888,Sillod,pigeon pea (tur),0,7510,7510
+2889,Sillod,sorgum(jawar),1450,1600,1600
+2890,Sillod,soybean,3204,3573,3573
+2891,Sillod,wheat(husked),1517,1554,1554
+2892,Sindevahi,paddy-unhusked,2678,2099,2099
+2893,Sindi (Selu),cotton,4075,4438,4438
+2894,Sindi (Selu),gram,0,0,0
+2895,Sindi (Selu),pigeon pea (tur),0,5365,5365
+2896,Sindi (Selu),soybean,0,3723,3723
+2897,Sindi (Selu),wheat(husked),0,1450,1450
+2898,Sindi,cotton,4070,4329,4329
+2899,Sindi,gram,2245,4461,4461
+2900,Sindi,pigeon pea (tur),0,7255,7255
+2901,Sindi,soybean,3408,3789,3789
+2902,Sindi,wheat(husked),0,1611,1611
+2903,Sindkhed Raja,maize,0,1420,1420
+2904,Sindkhed Raja,sorgum(jawar),0,1800,1800
+2905,Sindkhed Raja,soybean,0,3664,3664
+2906,Sindkhed Raja,wheat(husked),0,1800,1800
+2907,Sinner,bajri,1539,1674,1674
+2908,Sinner,black gram,5183,9239,9239
+2909,Sinner,castor seed,0,3385,3385
+2910,Sinner,gram,3347,4804,4804
+2911,Sinner,green gram,8228,8231,8231
+2912,Sinner,ground nut pods (dry),4325,6376,6376
+2913,Sinner,maize,1322,1634,1634
+2914,Sinner,matki,6801,8500,8500
+2915,Sinner,onion,1823,3445,3445
+2916,Sinner,pigeon pea (tur),3350,7949,7949
+2917,Sinner,rice(paddy-hus),1476,3252,3252
+2918,Sinner,sorgum(jawar),2055,1971,1971
+2919,Sinner,soybean,6086,3975,3975
+2920,Sinner,tamarind,0,1506,1506
+2921,Sinner,wheat(husked),1825,1945,1945
+2922,Sironcha,rice(paddy-hus),0,0,0
+2923,Solapur,apple,1175,1140,1140
+2924,Solapur,bajri,1464,1651,1651
+2925,Solapur,banana,1193,1020,1020
+2926,Solapur,bitter gourd,3474,4043,4043
+2927,Solapur,black gram,5794,9644,9644
+2928,Solapur,bor,1763,1892,1892
+2929,Solapur,brinjal,3506,3035,3035
+2930,Solapur,cabbage,817,1220,1220
+2931,Solapur,capsicum,2721,3005,3005
+2932,Solapur,carrot,2202,2188,2188
+2933,Solapur,chikoo,2642,3620,3620
+2934,Solapur,chillies(red),10286,16344,16344
+2935,Solapur,cluster bean,4607,6327,6327
+2936,Solapur,coriander  ,500,1200,1200
+2937,Solapur,cucumber,2738,2878,2878
+2938,Solapur,custard apple,5113,4866,4866
+2939,Solapur,flower,1360,1600,1600
+2940,Solapur,garlic,4858,12892,12892
+2941,Solapur,ghevda,3682,3833,3833
+2942,Solapur,goosefoot,0,400,400
+2943,Solapur,gram,3226,4670,4670
+2944,Solapur,grapes,153,477,477
+2945,Solapur,green chilli,3147,3320,3320
+2946,Solapur,green gram,7726,9120,9120
+2947,Solapur,green peas (dry),4961,5000,5000
+2948,Solapur,ground nut pods (dry),4200,5325,5325
+2949,Solapur,guava,2247,2500,2500
+2950,Solapur,jaggery,0,2784,2784
+2951,Solapur,ladies finger,4398,4431,4431
+2952,Solapur,lemon,6336,5563,5563
+2953,Solapur,matki,6631,8900,8900
+2954,Solapur,mula shenga,3675,4625,4625
+2955,Solapur,onion,2421,3887,3887
+2956,Solapur,papai,488,767,767
+2957,Solapur,pigeon pea (tur),5276,10483,10483
+2958,Solapur,pomegranate,11425,13771,13771
+2959,Solapur,potato,0,1857,1857
+2960,Solapur,rice(paddy-hus),5761,5662,5662
+2961,Solapur,ridge gourd,3670,4116,4116
+2962,Solapur,shepu,0,700,700
+2963,Solapur,sorgum(jawar),2729,3222,3222
+2964,Solapur,soybean,3392,3834,3834
+2965,Solapur,tomato,1812,3316,3316
+2966,Solapur,wheat(husked),2670,2843,2843
+2967,Solapur,wheat(unhusked),3200,3751,3751
+2968,Sonpeth,bajri,1426,1686,1686
+2969,Sonpeth,black gram,4201,0,0
+2970,Sonpeth,cotton,3997,4349,4349
+2971,Sonpeth,gram,2567,4455,4455
+2972,Sonpeth,green gram,7679,6250,6250
+2973,Sonpeth,pigeon pea (tur),5250,7200,7200
+2974,Sonpeth,safflower,2617,0,0
+2975,Sonpeth,sorgum(jawar),1968,2189,2189
+2976,Sonpeth,soybean,3366,3900,3900
+2977,Sonpeth,wheat(husked),1681,2200,2200
+2978,Soygaon,cotton,0,4348,4348
+2979,Soygaon,maize,0,1387,1387
+2980,Taloda,bajri,1448,1585,1585
+2981,Taloda,black gram,3995,3852,3852
+2982,Taloda,cotton,3965,3961,3961
+2983,Taloda,gram,3486,5324,5324
+2984,Taloda,green gram,0,7191,7191
+2985,Taloda,maize,1233,1463,1463
+2986,Taloda,pigeon pea (tur),5351,8610,8610
+2987,Taloda,sorgum(jawar),1889,2075,2075
+2988,Taloda,wheat(husked),1700,1766,1766
+2989,Tasgaon,bedana,20214,19449,19449
+2990,Tasgaon,gram,3100,4585,4585
+2991,Tasgaon,maize,1400,1402,1402
+2992,Tasgaon,sorgum(jawar),1600,1671,1671
+2993,Tasgaon,soybean,3200,3800,3800
+2994,Tasgaon,tamarind,0,5629,5629
+2995,Telhara,black gram,4742,9465,9465
+2996,Telhara,cotton,4048,4314,4314
+2997,Telhara,gram,2704,4638,4638
+2998,Telhara,green gram,7760,8715,8715
+2999,Telhara,pigeon pea (tur),4538,9520,9520
+3000,Telhara,sorgum(jawar),1317,1620,1620
+3001,Telhara,soybean,3221,3767,3767
+3002,Telhara,wheat(husked),1462,1580,1580
+3003,Tiroda,paddy-unhusked,1960,1640,1640
+3004,Tuljapur,bajri,1326,1600,1600
+3005,Tuljapur,black gram,5907,8545,8545
+3006,Tuljapur,gram,2725,4850,4850
+3007,Tuljapur,green gram,7400,8930,8930
+3008,Tuljapur,maize,1275,1725,1725
+3009,Tuljapur,pigeon pea (tur),4444,11267,11267
+3010,Tuljapur,sorgum(jawar),1425,2450,2450
+3011,Tuljapur,soybean,3318,3826,3826
+3012,Tuljapur,turmeric,0,7300,7300
+3013,Tuljapur,wheat(husked),1415,2528,2528
+3014,Tuljapur,wheat(unhusked),2450,3000,3000
+3015,Tumsar,black gram,4005,5250,5250
+3016,Tumsar,castor seed,3055,3444,3444
+3017,Tumsar,gram,2773,4763,4763
+3018,Tumsar,green gram,5722,6726,6726
+3019,Tumsar,jaggery,3235,3001,3001
+3020,Tumsar,lentil,3476,5581,5581
+3021,Tumsar,linseed,3907,4500,4500
+3022,Tumsar,other cereals,2178,3800,3800
+3023,Tumsar,other pulses,3250,3000,3000
+3024,Tumsar,paddy-unhusked,2202,1841,1841
+3025,Tumsar,pigeon pea (tur),3967,9017,9017
+3026,Tumsar,rice(paddy-hus),3930,3663,3663
+3027,Tumsar,sarsav,2924,3535,3535
+3028,Tumsar,wheat(husked),1552,1621,1621
+3029,Udgir,black gram,5862,11579,11579
+3030,Udgir,gram,2970,5156,5156
+3031,Udgir,green gram,7694,8650,8650
+3032,Udgir,pigeon pea (tur),5433,11628,11628
+3033,Udgir,safflower,0,2600,2600
+3034,Udgir,sorgum(jawar),1175,1507,1507
+3035,Udgir,soybean,3484,3933,3933
+3036,Udgir,tamarind,0,7398,7398
+3037,Udgir,wheat(husked),1340,1505,1505
+3038,Ulhasnagar,bajri,0,0,0
+3039,Ulhasnagar,banana,0,0,0
+3040,Ulhasnagar,coconut,0,0,0
+3041,Ulhasnagar,gr.nut kernels,0,9000,9000
+3042,Ulhasnagar,onion,0,0,0
+3043,Ulhasnagar,other cereals,0,0,0
+3044,Ulhasnagar,other vegetables,0,5605,5605
+3045,Ulhasnagar,potato,0,1724,1724
+3046,Ulhasnagar,rice(paddy-hus),0,6703,6703
+3047,Ulhasnagar,sorgum(jawar),0,3033,3033
+3048,Ulhasnagar,sugarcane,0,0,0
+3049,Ulhasnagar,wheat(husked),0,3030,3030
+3050,Umared,chillies(red),7000,10000,10000
+3051,Umared,coriander (dry),11027,10809,10809
+3052,Umared,cotton,3994,4447,4447
+3053,Umared,gram,2932,5600,5600
+3054,Umared,green gram,5942,6900,6900
+3055,Umared,green peas (dry),0,2405,2405
+3056,Umared,lang,2033,2138,2138
+3057,Umared,lentil,3743,4122,4122
+3058,Umared,linseed,4708,4908,4908
+3059,Umared,mustard,2900,3563,3563
+3060,Umared,other pulses,4096,7766,7766
+3061,Umared,pigeon pea (tur),4483,8337,8337
+3062,Umared,rice(paddy-hus),4463,3730,3730
+3063,Umared,sorgum(jawar),1950,2029,2029
+3064,Umared,soybean,3387,4071,4071
+3065,Umared,wheat(husked),1950,2269,2269
+3066,Umarga,bajri,1319,1502,1502
+3067,Umarga,black gram,5612,11028,11028
+3068,Umarga,gram,2594,4554,4554
+3069,Umarga,green gram,7934,8959,8959
+3070,Umarga,maize,1945,1575,1575
+3071,Umarga,paddy-unhusked,1225,1350,1350
+3072,Umarga,pigeon pea (tur),5129,10932,10932
+3073,Umarga,safflower,2514,2774,2774
+3074,Umarga,sesamum,9679,8612,8612
+3075,Umarga,sorgum(jawar),1749,2019,2019
+3076,Umarga,soybean,3378,3794,3794
+3077,Umarga,sunflower,3221,3481,3481
+3078,Umarga,wheat(husked),1625,2541,2541
+3079,Umarga,wheat(unhusked),3265,3800,3800
+3080,Umari,pigeon pea (tur),0,8857,8857
+3081,Umari,sorgum(jawar),0,0,0
+3082,Umari,soybean,0,0,0
+3083,Umarkhed-Danki,gram,3100,5000,5000
+3084,Umarkhed-Danki,pigeon pea (tur),0,8633,8633
+3085,Umarkhed-Danki,sorgum(jawar),0,1500,1500
+3086,Umarkhed-Danki,soybean,3500,3617,3617
+3087,Umarkhed-Danki,wheat(husked),1667,1600,1600
+3088,Umarkhed,cotton,4041,4100,4100
+3089,Umarkhed,gram,3100,5075,5075
+3090,Umarkhed,pigeon pea (tur),4300,8200,8200
+3091,Umarkhed,sorgum(jawar),0,1600,1600
+3092,Umarkhed,soybean,3500,3613,3613
+3093,Umarkhed,wheat(husked),1700,1600,1600
+3094,Umrane,onion,0,0,0
+3095,Vadgaon Peth,bitter gourd,2619,2765,2765
+3096,Vadgaon Peth,bottle gourd,2000,1500,1500
+3097,Vadgaon Peth,brinjal,4042,2500,2500
+3098,Vadgaon Peth,cabbage,1115,1390,1390
+3099,Vadgaon Peth,capsicum,3109,3221,3221
+3100,Vadgaon Peth,carrot,1500,2550,2550
+3101,Vadgaon Peth,cluster bean,3250,4000,4000
+3102,Vadgaon Peth,coriander  ,10,6,6
+3103,Vadgaon Peth,cucumber,1950,1700,1700
+3104,Vadgaon Peth,flower,2680,2093,2093
+3105,Vadgaon Peth,ghevda,3000,3000,3000
+3106,Vadgaon Peth,green chilli,0,3500,3500
+3107,Vadgaon Peth,green-peas,3250,3980,3980
+3108,Vadgaon Peth,ladies finger,3371,3333,3333
+3109,Vadgaon Peth,methi (bhaji),7,7,7
+3110,Vadgaon Peth,pavtta,4438,3500,3500
+3111,Vadgaon Peth,ridge gourd,3912,3638,3638
+3112,Vadgaon Peth,snake gourd,2000,2375,2375
+3113,Vadgaon Peth,spinach,5,3,3
+3114,Vadgaon Peth,tomato,1643,1927,1927
+3115,Vaduj,bajri,1563,1667,1667
+3116,Vaduj,cowpea,3340,4500,4500
+3117,Vaduj,ghevda seed,6400,4867,4867
+3118,Vaduj,gram,2733,4581,4581
+3119,Vaduj,green gram,7400,8244,8244
+3120,Vaduj,maize,1400,1556,1556
+3121,Vaduj,sorgum(jawar),2378,2433,2433
+3122,Vaduj,soybean,3322,3633,3633
+3123,Vaduj,wheat(husked),0,2150,2150
+3124,Vaijapur,bajri,1532,1793,1793
+3125,Vaijapur,black gram,3800,9400,9400
+3126,Vaijapur,castor seed,0,2450,2450
+3127,Vaijapur,cowpea,4100,5126,5126
+3128,Vaijapur,gram,2517,5684,5684
+3129,Vaijapur,green gram,7466,9096,9096
+3130,Vaijapur,ground nut pods (dry),3845,6214,6214
+3131,Vaijapur,horse gram,0,3706,3706
+3132,Vaijapur,maize,1243,1720,1720
+3133,Vaijapur,matki,0,7930,7930
+3134,Vaijapur,mustard,3500,3784,3784
+3135,Vaijapur,onion,2142,2744,2744
+3136,Vaijapur,pigeon pea (tur),3675,9102,9102
+3137,Vaijapur,safflower,2500,2763,2763
+3138,Vaijapur,sorgum(jawar),1609,1738,1738
+3139,Vaijapur,soybean,3167,3835,3835
+3140,Vaijapur,tamarind,0,1104,1104
+3141,Vaijapur,wheat(husked),1694,1992,1992
+3142,Vai,bottle gourd,1825,1650,1650
+3143,Vai,brinjal,2722,2145,2145
+3144,Vai,cabbage,955,1140,1140
+3145,Vai,cucumber,2341,2521,2521
+3146,Vai,flower,2400,2241,2241
+3147,Vai,ginger (fresh),0,4187,4187
+3148,Vai,green chilli,4250,4000,4000
+3149,Vai,green-peas,6000,5333,5333
+3150,Vai,ladies finger,3667,4109,4109
+3151,Vai,onion,0,2600,2600
+3152,Vai,pavata,4300,5250,5250
+3153,Vai,pavtta,0,5400,5400
+3154,Vai,ridge gourd,3444,3875,3875
+3155,Vai,tomato,2590,3385,3385
+3156,Vani,cotton,4051,4289,4289
+3157,Vani,gram,2438,3865,3865
+3158,Vani,pigeon pea (tur),4761,8353,8353
+3159,Vani,soybean,3324,3755,3755
+3160,Varora,cotton,3960,4376,4376
+3161,Varora,gram,0,4401,4401
+3162,Varora,pigeon pea (tur),0,8340,8340
+3163,Varora,soybean,3412,3883,3883
+3164,Varud-Rajura Bazar,castor seed,3300,3566,3566
+3165,Varud-Rajura Bazar,gram,3185,5729,5729
+3166,Varud-Rajura Bazar,green chilli,3070,3059,3059
+3167,Varud-Rajura Bazar,maize,1375,1392,1392
+3168,Varud-Rajura Bazar,mustard,0,3250,3250
+3169,Varud-Rajura Bazar,pigeon pea (tur),5033,9385,9385
+3170,Varud-Rajura Bazar,sorgum(jawar),1585,1417,1417
+3171,Varud-Rajura Bazar,soybean,3337,3734,3734
+3172,Varud-Rajura Bazar,wheat(husked),1503,1569,1569
+3173,Varud,cotton,4031,4500,4500
+3174,Varud,orange,2500,1338,1338
+3175,Varud,sorgum(jawar),1530,1570,1570
+3176,Vasai,onion,2250,2406,2406
+3177,Vasai,paddy-unhusked,0,1803,1803
+3178,Vasai,potato,0,1829,1829
+3179,Vasai,rice(paddy-hus),3750,4147,4147
+3180,Vasai,tomato,0,2111,2111
+3181,Vasai,wheat(husked),3400,2842,2842
+3182,Vita,brinjal,1200,0,0
+3183,Vita,green chilli,0,0,0
+3184,Vita,ladies finger,4000,0,0
+3185,Vita,onion,1700,0,0
+3186,Vita,tomato,1200,0,0
+3187,Wardha,cotton,4066,4333,4333
+3188,Wardha,gram,2863,4681,4681
+3189,Wardha,green gram,0,0,0
+3190,Wardha,pigeon pea (tur),4778,9200,9200
+3191,Wardha,sorgum(jawar),0,1450,1450
+3192,Wardha,soybean,3419,3835,3835
+3193,Wardha,wheat(husked),1548,1565,1565
+3194,Washim-Ansing,black gram,0,0,0
+3195,Washim-Ansing,gram,0,0,0
+3196,Washim-Ansing,green gram,0,0,0
+3197,Washim-Ansing,pigeon pea (tur),0,0,0
+3198,Washim-Ansing,sorgum(jawar),0,0,0
+3199,Washim-Ansing,soybean,0,0,0
+3200,Washim-Ansing,wheat(husked),0,0,0
+3201,Washim,black gram,5368,10008,10008
+3202,Washim,gram,3352,5159,5159
+3203,Washim,green gram,6436,8423,8423
+3204,Washim,mustard,3900,3900,3900
+3205,Washim,paddy-unhusked,1341,1500,1500
+3206,Washim,pigeon pea (tur),5127,9874,9874
+3207,Washim,safflower,3000,2600,2600
+3208,Washim,sorgum(jawar),1640,1738,1738
+3209,Washim,soybean,3471,3964,3964
+3210,Washim,turmeric,0,0,0
+3211,Washim,wheat(husked),1695,1753,1753
+3212,Yawal,bajri,0,1275,1275
+3213,Yawal,banana,1125,543,543
+3214,Yawal,cotton,3919,4235,4235
+3215,Yawal,gram,0,0,0
+3216,Yawal,ground nut pods (dry),0,0,0
+3217,Yawal,maize,1288,1309,1309
+3218,Yawal,onion,0,1578,1578
+3219,Yawal,sorgum(jawar),1486,1330,1330
+3220,Yawal,soybean,2513,3450,3450
+3221,Yawal,wheat(husked),0,1800,1800
+3222,Yeola,bajri,1470,1575,1575
+3223,Yeola,gram,3550,4702,4702
+3224,Yeola,green gram,8141,9037,9037
+3225,Yeola,maize,1214,1541,1541
+3226,Yeola,onion,1732,2460,2460
+3227,Yeola,pigeon pea (tur),4101,8500,8500
+3228,Yeola,sorgum(jawar),1801,1701,1701
+3229,Yeola,soybean,3363,3886,3886
+3230,Yeola,wheat(husked),1665,1713,1713
+3231,Yeotmal,black gram,5022,8647,8647
+3232,Yeotmal,cotton,4037,4263,4263
+3233,Yeotmal,gram,2646,4621,4621
+3234,Yeotmal,green gram,5121,8401,8401
+3235,Yeotmal,ground nut pods (dry),0,5686,5686
+3236,Yeotmal,pigeon pea (tur),5005,10690,10690
+3237,Yeotmal,sorgum(jawar),1537,1550,1550
+3238,Yeotmal,soybean,3379,3894,3894
+3239,Yeotmal,wheat(husked),1512,2756,2756
+3240,Zarijamini,cotton,4028,4182,4182
+3241,Zarijamini,gram,0,3661,3661
+3242,Zarijamini,pigeon pea (tur),0,9055,9055
+3243,Zarijamini,soybean,3103,7826,7826
